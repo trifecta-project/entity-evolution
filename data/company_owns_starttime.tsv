@@ -1,0 +1,847 @@
+	othercompanyname.value	company.value	companyLabel.xml:lang	companyLabel.value	othercompanynameLabel.xml:lang	othercompanynameLabel.value	starttime.value
+0	http://www.wikidata.org/entity/Q5281	http://www.wikidata.org/entity/Q47120756	en	Yandex N.V.	en	Yandex	2000-01-01T00:00:00Z
+1	http://www.wikidata.org/entity/Q5281	http://www.wikidata.org/entity/Q47120756	en	Yandex N.V.	en	Yandex	2000-01-01T00:00:00Z
+2	http://www.wikidata.org/entity/Q18747	http://www.wikidata.org/entity/Q47402605	en	1890s holdings	en	West Ham United F.C.	2021-11-01T00:00:00Z
+3	http://www.wikidata.org/entity/Q18747	http://www.wikidata.org/entity/Q47402605	en	1890s holdings	en	West Ham United F.C.	2021-11-01T00:00:00Z
+4	http://www.wikidata.org/entity/Q312	http://www.wikidata.org/entity/Q849363	en	The Vanguard Group	en	Apple	2017-12-15T00:00:00Z
+5	http://www.wikidata.org/entity/Q312	http://www.wikidata.org/entity/Q849363	en	The Vanguard Group	en	Apple	2017-12-15T00:00:00Z
+6	http://www.wikidata.org/entity/Q5638	http://www.wikidata.org/entity/Q889060	en	Bochum-Gelsenkirchener Straßenbahnen	en	bus	2019-12-31T00:00:00Z
+7	http://www.wikidata.org/entity/Q37156	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	IBM	2015-12-31T00:00:00Z
+8	http://www.wikidata.org/entity/Q37156	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	IBM	2015-12-31T00:00:00Z
+9	http://www.wikidata.org/entity/Q5638	http://www.wikidata.org/entity/Q12662012	en	Kedbusas	en	bus	2008-05-07T00:00:00Z
+10	http://www.wikidata.org/entity/Q156077	http://www.wikidata.org/entity/Q160746	en	Nestlé	en	L'Oréal	2016-11-28T00:00:00Z
+11	http://www.wikidata.org/entity/Q156077	http://www.wikidata.org/entity/Q160746	en	Nestlé	en	L'Oréal	2023-03-08T00:00:00Z
+12	http://www.wikidata.org/entity/Q289642	http://www.wikidata.org/entity/Q912778	en	OTP Bank	en	Societe Generale bank Montenegro	2019-05-01T00:00:00Z
+13	http://www.wikidata.org/entity/Q216796	http://www.wikidata.org/entity/Q44294	en	Ford Motor Company	en	Lincoln Motor Company	1922-01-01T00:00:00Z
+14	http://www.wikidata.org/entity/Q63335	http://www.wikidata.org/entity/Q95989661	en	Vesa Equity Investment	en	Foot Locker	2020-05-01T00:00:00Z
+15	http://www.wikidata.org/entity/Q55931	http://www.wikidata.org/entity/Q497534	en	Hyundai Mobis	en	Hyundai Motor Company	2017-01-01T00:00:00Z
+16	http://www.wikidata.org/entity/Q53227	http://www.wikidata.org/entity/Q9364866	en	Hon Hai Precision Industry Co., Ltd.	en	Sharp Corporation	2022-03-31T00:00:00Z
+17	http://www.wikidata.org/entity/Q53227	http://www.wikidata.org/entity/Q118137603	en	Foxconn Technology	en	Sharp Corporation	2022-03-31T00:00:00Z
+18	http://www.wikidata.org/entity/Q53227	http://www.wikidata.org/entity/Q30338461	en	Foxconn (Far East)	en	Sharp Corporation	2022-03-31T00:00:00Z
+19	http://www.wikidata.org/entity/Q53227	http://www.wikidata.org/entity/Q118137576	en	SIO International Holdings	en	Sharp Corporation	2022-03-31T00:00:00Z
+20	http://www.wikidata.org/entity/Q222909	http://www.wikidata.org/entity/Q43376511	en	Race Queen	en	2channel	2014-01-01T00:00:00Z
+21	http://www.wikidata.org/entity/Q302544	http://www.wikidata.org/entity/Q112155997	en	Aircraft International	en	LET Aircraft Industries	2022-01-01T00:00:00Z
+22	http://www.wikidata.org/entity/Q306510	http://www.wikidata.org/entity/Q107975041	en	Kaprain Chemical	en	Spolchemie	2021-01-01T00:00:00Z
+23	http://www.wikidata.org/entity/Q222909	http://www.wikidata.org/entity/Q43376469	en	Packet Monster	en	2channel	2009-01-02T00:00:00Z
+24	http://www.wikidata.org/entity/Q483959	http://www.wikidata.org/entity/Q58024	en	eBay	en	PayPal	2002-10-01T00:00:00Z
+25	http://www.wikidata.org/entity/Q483959	http://www.wikidata.org/entity/Q58024	en	eBay	en	PayPal	2002-10-01T00:00:00Z
+26	http://www.wikidata.org/entity/Q222909	http://www.wikidata.org/entity/Q43376452	en	Loki Technology	en	2channel	2017-10-01T00:00:00Z
+27	http://www.wikidata.org/entity/Q479882	http://www.wikidata.org/entity/Q98931752	en	VMS Software Inc.	en	OpenVMS	2014-01-01T00:00:00Z
+28	http://www.wikidata.org/entity/Q43380	http://www.wikidata.org/entity/Q632404	en	Westinghouse Electric Corporation	en	CBS	1995-01-01T00:00:00Z
+29	http://www.wikidata.org/entity/Q175431	http://www.wikidata.org/entity/Q650467	en	Wind Telecomunicazioni	en	Blu	2002-01-01T00:00:00Z
+30	http://www.wikidata.org/entity/Q175431	http://www.wikidata.org/entity/Q650467	en	Wind Telecomunicazioni	en	Blu	2002-01-01T00:00:00Z
+31	http://www.wikidata.org/entity/Q173712	http://www.wikidata.org/entity/Q499432	en	Villiers Engineering	en	JA Prestwich Industries	1957-01-01T00:00:00Z
+32	http://www.wikidata.org/entity/Q253889	http://www.wikidata.org/entity/Q1529130	en	Glam Media	en	Ning	2011-09-01T00:00:00Z
+33	http://www.wikidata.org/entity/Q249525	http://www.wikidata.org/entity/Q118164991		Q118164991	en	Lotteria	2023-04-01T00:00:00Z
+34	http://www.wikidata.org/entity/Q29637	http://www.wikidata.org/entity/Q33092807	en	Volkswagen Finance Luxemburg	en	Škoda Auto	2014-01-01T00:00:00Z
+35	http://www.wikidata.org/entity/Q29637	http://www.wikidata.org/entity/Q33092807	en	Volkswagen Finance Luxemburg	en	Škoda Auto	2014-01-01T00:00:00Z
+36	http://www.wikidata.org/entity/Q163560	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Axel Springer SE	2019-07-01T00:00:00Z
+37	http://www.wikidata.org/entity/Q163560	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Axel Springer SE	2019-07-01T00:00:00Z
+38	http://www.wikidata.org/entity/Q30378	http://www.wikidata.org/entity/Q1840188	en	Rostec	en	Kamaz	2017-01-01T00:00:00Z
+39	http://www.wikidata.org/entity/Q171337	http://www.wikidata.org/entity/Q98714466	en	Dorilton Capital	en	Williams Racing	2020-01-01T00:00:00Z
+40	http://www.wikidata.org/entity/Q571997	http://www.wikidata.org/entity/Q117852985	en	SBI Regional Bank Holdings	en	SBI Shinsei Bank	2022-03-31T00:00:00Z
+41	http://www.wikidata.org/entity/Q638098	http://www.wikidata.org/entity/Q95989661	en	Vesa Equity Investment	en	Royal Mail	2020-05-01T00:00:00Z
+42	http://www.wikidata.org/entity/Q681316	http://www.wikidata.org/entity/Q39925406	en	Rasperia Trading	en	Strabag	2016-12-31T00:00:00Z
+43	http://www.wikidata.org/entity/Q278301	http://www.wikidata.org/entity/Q1428119	en	Matchless	en	AJS	1931-01-01T00:00:00Z
+44	http://www.wikidata.org/entity/Q45464	http://www.wikidata.org/entity/Q27968873	en	NIKA Development	en	Tatra	2017-01-01T00:00:00Z
+45	http://www.wikidata.org/entity/Q45464	http://www.wikidata.org/entity/Q27968873	en	NIKA Development	en	Tatra	2017-01-01T00:00:00Z
+46	http://www.wikidata.org/entity/Q278948	http://www.wikidata.org/entity/Q10863580	en	YGM Trading Ltd.	en	Aquascutum	2012-05-01T00:00:00Z
+47	http://www.wikidata.org/entity/Q614942	http://www.wikidata.org/entity/Q5205654	en	DMW Motorcycles	en	Ambassador Motorcycles	1963-01-01T00:00:00Z
+48	http://www.wikidata.org/entity/Q613883	http://www.wikidata.org/entity/Q44294	en	Ford Motor Company	en	Mercury	1938-01-01T00:00:00Z
+49	http://www.wikidata.org/entity/Q689510	http://www.wikidata.org/entity/Q54173	en	General Electric	en	Tungsram	1989-01-01T00:00:00Z
+50	http://www.wikidata.org/entity/Q689510	http://www.wikidata.org/entity/Q54173	en	General Electric	en	Tungsram	1989-01-01T00:00:00Z
+51	http://www.wikidata.org/entity/Q625319	http://www.wikidata.org/entity/Q696056	en	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	en	SS Austria	1858-01-01T00:00:00Z
+52	http://www.wikidata.org/entity/Q434841	http://www.wikidata.org/entity/Q7414	en	The Walt Disney Company	en	20th Century Studios	2019-03-20T00:00:00Z
+53	http://www.wikidata.org/entity/Q642616	http://www.wikidata.org/entity/Q16566756	en	Italiaonline	en	SEAT Pagine Gialle	2016-01-01T00:00:00Z
+54	http://www.wikidata.org/entity/Q642616	http://www.wikidata.org/entity/Q16566756	en	Italiaonline	en	SEAT Pagine Gialle	2016-01-01T00:00:00Z
+55	http://www.wikidata.org/entity/Q665648	http://www.wikidata.org/entity/Q503405	en	Victorinox	en	Wenger	2005-01-01T00:00:00Z
+56	http://www.wikidata.org/entity/Q539508	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Nixdorf Computer	1999-01-01T00:00:00Z
+57	http://www.wikidata.org/entity/Q539508	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Nixdorf Computer	1999-01-01T00:00:00Z
+58	http://www.wikidata.org/entity/Q704560	http://www.wikidata.org/entity/Q16988748	en	CoStar Group	en	Emporis	2020-10-26T00:00:00Z
+59	http://www.wikidata.org/entity/Q726572	http://www.wikidata.org/entity/Q55832189	en	Aria	en	Tessellis	2015-01-01T00:00:00Z
+60	http://www.wikidata.org/entity/Q726572	http://www.wikidata.org/entity/Q55832189	en	Aria	en	Tessellis	2015-01-01T00:00:00Z
+61	http://www.wikidata.org/entity/Q696376	http://www.wikidata.org/entity/Q19572998	en	Michael Kors	en	Versace	2018-09-01T00:00:00Z
+62	http://www.wikidata.org/entity/Q696376	http://www.wikidata.org/entity/Q19572998	en	Michael Kors	en	Versace	2018-09-01T00:00:00Z
+63	http://www.wikidata.org/entity/Q455727	http://www.wikidata.org/entity/Q83780068	en	Geneva BrassWind	en	Amati Kraslice	2016-01-01T00:00:00Z
+64	http://www.wikidata.org/entity/Q477318	http://www.wikidata.org/entity/Q138133	en	RWE	en	Amprion	2011-09-06T00:00:00Z
+65	http://www.wikidata.org/entity/Q477318	http://www.wikidata.org/entity/Q138133	en	RWE	en	Amprion	2011-09-06T00:00:00Z
+66	http://www.wikidata.org/entity/Q474153	http://www.wikidata.org/entity/Q1384140	en	Exor	en	The Economist Group	2015-01-01T00:00:00Z
+67	http://www.wikidata.org/entity/Q474153	http://www.wikidata.org/entity/Q1384140	en	Exor	en	The Economist Group	2015-01-01T00:00:00Z
+68	http://www.wikidata.org/entity/Q834300	http://www.wikidata.org/entity/Q700651	en	Viessmann	en	Hitachi Zosen Inova Schmack	2010-01-01T00:00:00Z
+69	http://www.wikidata.org/entity/Q744149	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	Wells Fargo	2015-12-31T00:00:00Z
+70	http://www.wikidata.org/entity/Q744149	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	Wells Fargo	2015-12-31T00:00:00Z
+71	http://www.wikidata.org/entity/Q953040	http://www.wikidata.org/entity/Q7414	en	The Walt Disney Company	en	Searchlight Pictures	2019-03-20T00:00:00Z
+72	http://www.wikidata.org/entity/Q873450	http://www.wikidata.org/entity/Q121093969	en	Bunzl & Biach AG	en	Lenzing AG	1935-01-01T00:00:00Z
+73	http://www.wikidata.org/entity/Q742640	http://www.wikidata.org/entity/Q318128	en	AbeBooks	en	LibraryThing	2006-05-01T00:00:00Z
+74	http://www.wikidata.org/entity/Q739084	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	U.S. Bancorp	2015-12-31T00:00:00Z
+75	http://www.wikidata.org/entity/Q739084	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	U.S. Bancorp	2015-12-31T00:00:00Z
+76	http://www.wikidata.org/entity/Q675585	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	Moody's Corporation	2015-12-31T00:00:00Z
+77	http://www.wikidata.org/entity/Q675585	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	Moody's Corporation	2015-12-31T00:00:00Z
+78	http://www.wikidata.org/entity/Q677085	http://www.wikidata.org/entity/Q83867670	en	PaBa Software	en	Gen Digital	2023-07-17T00:00:00Z
+79	http://www.wikidata.org/entity/Q843776	http://www.wikidata.org/entity/Q11346902		Q11346902	en	Tōkai Television Broadcasting	1958-12-01T00:00:00Z
+80	http://www.wikidata.org/entity/Q844271	http://www.wikidata.org/entity/Q11299412		Q11299412	en	Vissel Kobe	2004-01-05T00:00:00Z
+81	http://www.wikidata.org/entity/Q1151411	http://www.wikidata.org/entity/Q186941	en	Columbia Pictures	en	Gottlieb	1976-01-01T00:00:00Z
+82	http://www.wikidata.org/entity/Q917973	http://www.wikidata.org/entity/Q97011121	en	Bristol Sport	en	Bristol Bears	2011-01-01T00:00:00Z
+83	http://www.wikidata.org/entity/Q917973	http://www.wikidata.org/entity/Q97011121	en	Bristol Sport	en	Bristol Bears	2011-01-01T00:00:00Z
+84	http://www.wikidata.org/entity/Q860580	http://www.wikidata.org/entity/Q1965898	en	Naspers	en	Tencent	2018-03-22T00:00:00Z
+85	http://www.wikidata.org/entity/Q860580	http://www.wikidata.org/entity/Q1965898	en	Naspers	en	Tencent	2018-03-22T00:00:00Z
+86	http://www.wikidata.org/entity/Q933787	http://www.wikidata.org/entity/Q116053726	en	Škoda	en	Škoda Transportation	2023-01-01T00:00:00Z
+87	http://www.wikidata.org/entity/Q933787	http://www.wikidata.org/entity/Q29384567	en	Flexagon Limited	en	Škoda Transportation	2016-05-26T00:00:00Z
+88	http://www.wikidata.org/entity/Q1110685	http://www.wikidata.org/entity/Q300704	en	Aachen Münchener	en	Colonia	1935-01-01T00:00:00Z
+89	http://www.wikidata.org/entity/Q1127887	http://www.wikidata.org/entity/Q219635	en	BlackRock	en	Vivendi	2017-03-07T00:00:00Z
+90	http://www.wikidata.org/entity/Q1140873	http://www.wikidata.org/entity/Q7020906	en	Nexstar Media Group	en	KTLA	2019-01-01T00:00:00Z
+91	http://www.wikidata.org/entity/Q1132697	http://www.wikidata.org/entity/Q6825499	en	Mettoy	en	Corgi Toys	1956-01-01T00:00:00Z
+92	http://www.wikidata.org/entity/Q1132697	http://www.wikidata.org/entity/Q2593507	en	Corgi Classics Limited	en	Corgi Toys	1995-01-01T00:00:00Z
+93	http://www.wikidata.org/entity/Q1146428	http://www.wikidata.org/entity/Q201653	en	SoftBank Group	en	Yahoo! Japan	1996-01-31T00:00:00Z
+94	http://www.wikidata.org/entity/Q850324	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	H. J. Heinz Company	2015-12-31T00:00:00Z
+95	http://www.wikidata.org/entity/Q850324	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	H. J. Heinz Company	2015-12-31T00:00:00Z
+96	http://www.wikidata.org/entity/Q1023763	http://www.wikidata.org/entity/Q1112652	en	Youngor Group	en	CITIC Limited	2015-12-08T00:00:00Z
+97	http://www.wikidata.org/entity/Q1162190	http://www.wikidata.org/entity/Q122351935	en	Onassis-Group	en	Société des bains de mer de Monaco	1953-01-01T00:00:00Z
+98	http://www.wikidata.org/entity/Q1414135	http://www.wikidata.org/entity/Q889060	en	Bochum-Gelsenkirchener Straßenbahnen	en	rolling stock	2019-12-31T00:00:00Z
+99	http://www.wikidata.org/entity/Q1507642	http://www.wikidata.org/entity/Q29642463	en	Huaneng International Power Development Corporation	en	Huaneng Power International	2017-12-31T00:00:00Z
+100	http://www.wikidata.org/entity/Q1401161	http://www.wikidata.org/entity/Q29384567	en	Flexagon Limited	en	VÚKV	2017-01-01T00:00:00Z
+101	http://www.wikidata.org/entity/Q1281903	http://www.wikidata.org/entity/Q1424136	en	Reemtsma	en	Eckstein	1935-01-01T00:00:00Z
+102	http://www.wikidata.org/entity/Q1046761	http://www.wikidata.org/entity/Q1370668	en	Napoli	en	Casali	1955-01-01T00:00:00Z
+103	http://www.wikidata.org/entity/Q1046761	http://www.wikidata.org/entity/Q700436	en	Josef Manner & Comp AG	en	Casali	1970-01-01T00:00:00Z
+104	http://www.wikidata.org/entity/Q1425170	http://www.wikidata.org/entity/Q20056888	en	AB - Credit	en	HC Sparta Praha	2019-01-01T00:00:00Z
+105	http://www.wikidata.org/entity/Q1425170	http://www.wikidata.org/entity/Q20056888	en	AB - Credit	en	HC Sparta Praha	2019-01-01T00:00:00Z
+106	http://www.wikidata.org/entity/Q1660121	http://www.wikidata.org/entity/Q25051733	en	CPI Property Group	en	Immofinanz	2021-12-03T00:00:00Z
+107	http://www.wikidata.org/entity/Q1660121	http://www.wikidata.org/entity/Q25051733	en	CPI Property Group	en	Immofinanz	2021-12-03T00:00:00Z
+108	http://www.wikidata.org/entity/Q1656230	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	Phillips 66	2015-12-31T00:00:00Z
+109	http://www.wikidata.org/entity/Q1656230	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	Phillips 66	2015-12-31T00:00:00Z
+110	http://www.wikidata.org/entity/Q1258332	http://www.wikidata.org/entity/Q234021	en	Robert Bosch	en	Dremel	1993-01-01T00:00:00Z
+111	http://www.wikidata.org/entity/Q1645436	http://www.wikidata.org/entity/Q65077565	en	Funrise Toys	en	Tonka	1998-01-01T00:00:00Z
+112	http://www.wikidata.org/entity/Q1452887	http://www.wikidata.org/entity/Q7438739	en	Scranton Button Company	en	Regal Records	1922-08-01T00:00:00Z
+113	http://www.wikidata.org/entity/Q1452887	http://www.wikidata.org/entity/Q7438739	en	Scranton Button Company	en	Regal Records	1922-08-01T00:00:00Z
+114	http://www.wikidata.org/entity/Q1543815	http://www.wikidata.org/entity/Q19724671	en	Radisson Hotel Group	en	Radisson Hospitality AB	2005-01-01T00:00:00Z
+115	http://www.wikidata.org/entity/Q1751979	http://www.wikidata.org/entity/Q19724671	en	Radisson Hotel Group	en	Radisson Hotels	1962-01-01T00:00:00Z
+116	http://www.wikidata.org/entity/Q1688472	http://www.wikidata.org/entity/Q60487298	en	JetBrains N.V.	en	JetBrains	2014-01-01T00:00:00Z
+117	http://www.wikidata.org/entity/Q1756495	http://www.wikidata.org/entity/Q58044561	en	The Marconi Wireless Telegraph & Signal Company	en	British Broadcasting Company Limited	1922-10-18T00:00:00Z
+118	http://www.wikidata.org/entity/Q1756495	http://www.wikidata.org/entity/Q58044561	en	The Marconi Wireless Telegraph & Signal Company	en	British Broadcasting Company Limited	1922-10-18T00:00:00Z
+119	http://www.wikidata.org/entity/Q1571798	http://www.wikidata.org/entity/Q1691878	en	Domino's Pizza Deutschland	en	Hallo Pizza	2017-10-01T00:00:00Z
+120	http://www.wikidata.org/entity/Q1880060	http://www.wikidata.org/entity/Q2137390	en	Libéma	en	Autotron	1982-01-01T00:00:00Z
+121	http://www.wikidata.org/entity/Q1916873	http://www.wikidata.org/entity/Q5205654	en	DMW Motorcycles	en	Calthorpe cars	1947-01-01T00:00:00Z
+122	http://www.wikidata.org/entity/Q1911879	http://www.wikidata.org/entity/Q1206672	en	Develey Senf & Feinkost	en	Mautner Markhof Feinkost	2002-01-01T00:00:00Z
+123	http://www.wikidata.org/entity/Q1664401	http://www.wikidata.org/entity/Q67811242	en	TTP invest	en	Líšno Castle	2016-01-01T00:00:00Z
+124	http://www.wikidata.org/entity/Q1664401	http://www.wikidata.org/entity/Q67811242	en	TTP invest	en	Líšno Castle	2016-01-01T00:00:00Z
+125	http://www.wikidata.org/entity/Q1439011	http://www.wikidata.org/entity/Q201653	en	SoftBank Group	en	Fortress Investment Group	2017-12-27T00:00:00Z
+126	http://www.wikidata.org/entity/Q1660121	http://www.wikidata.org/entity/Q102261907	en	WXZ1	en	Immofinanz	2021-12-03T00:00:00Z
+127	http://www.wikidata.org/entity/Q1660121	http://www.wikidata.org/entity/Q102261907	en	WXZ1	en	Immofinanz	2021-12-03T00:00:00Z
+128	http://www.wikidata.org/entity/Q1660121	http://www.wikidata.org/entity/Q110324607	en	CEE Immobilien	en	Immofinanz	2021-10-19T00:00:00Z
+129	http://www.wikidata.org/entity/Q1663229	http://www.wikidata.org/entity/Q1614311	en	Herrnbräu	en	Ingobräu	2008-01-01T00:00:00Z
+130	http://www.wikidata.org/entity/Q1953422	http://www.wikidata.org/entity/Q2914692	en	The Jim Henson Company	en	The Muppets	1955-05-01T00:00:00Z
+131	http://www.wikidata.org/entity/Q1953422	http://www.wikidata.org/entity/Q2914692	en	The Jim Henson Company	en	The Muppets	1955-05-01T00:00:00Z
+132	http://www.wikidata.org/entity/Q194360	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	American Express	2015-12-31T00:00:00Z
+133	http://www.wikidata.org/entity/Q194360	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	American Express	2015-12-31T00:00:00Z
+134	http://www.wikidata.org/entity/Q195997	http://www.wikidata.org/entity/Q835702	en	Alludo	en	Parallels	2018-12-20T00:00:00Z
+135	http://www.wikidata.org/entity/Q2052550	http://www.wikidata.org/entity/Q19724671	en	Radisson Hotel Group	en	Park Plaza Hotels & Resorts	2000-01-01T00:00:00Z
+136	http://www.wikidata.org/entity/Q338732	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Accell	2022-01-24T00:00:00Z
+137	http://www.wikidata.org/entity/Q338732	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Accell	2022-01-24T00:00:00Z
+138	http://www.wikidata.org/entity/Q192653	http://www.wikidata.org/entity/Q60458161	en	Prisko	en	Czech Airlines	2016-01-01T00:00:00Z
+139	http://www.wikidata.org/entity/Q192653	http://www.wikidata.org/entity/Q60458161	en	Prisko	en	Czech Airlines	2016-01-01T00:00:00Z
+140	http://www.wikidata.org/entity/Q192653	http://www.wikidata.org/entity/Q112200520	en	Prague City Air	en	Czech Airlines	2022-01-01T00:00:00Z
+141	http://www.wikidata.org/entity/Q192653	http://www.wikidata.org/entity/Q1853488	en	Smartwings	en	Czech Airlines	2022-01-01T00:00:00Z
+142	http://www.wikidata.org/entity/Q192653	http://www.wikidata.org/entity/Q1853488	en	Smartwings	en	Czech Airlines	2022-01-01T00:00:00Z
+143	http://www.wikidata.org/entity/Q192653	http://www.wikidata.org/entity/Q1853488	en	Smartwings	en	Czech Airlines	2018-01-01T00:00:00Z
+144	http://www.wikidata.org/entity/Q192653	http://www.wikidata.org/entity/Q1853488	en	Smartwings	en	Czech Airlines	2018-01-01T00:00:00Z
+145	http://www.wikidata.org/entity/Q2057904	http://www.wikidata.org/entity/Q2137390	en	Libéma	en	ZooParc Overloon	2015-01-01T00:00:00Z
+146	http://www.wikidata.org/entity/Q1943154	http://www.wikidata.org/entity/Q7262958	en	Pye Ltd.	en	Nixa Record Co. Ltd.	1953-01-01T00:00:00Z
+147	http://www.wikidata.org/entity/Q2380266	http://www.wikidata.org/entity/Q1979720	en	PPF Group	en	Polymetal International	2016-12-31T00:00:00Z
+148	http://www.wikidata.org/entity/Q2380266	http://www.wikidata.org/entity/Q1979720	en	PPF Group	en	Polymetal International	2016-12-31T00:00:00Z
+149	http://www.wikidata.org/entity/Q1577153	http://www.wikidata.org/entity/Q106800402	en	Mexican Corporation	en	Peñoles	1932-01-01T00:00:00Z
+150	http://www.wikidata.org/entity/Q1853488	http://www.wikidata.org/entity/Q63174226	en	Rainbow Wisdom Investments Limited	en	Smartwings	2019-01-01T00:00:00Z
+151	http://www.wikidata.org/entity/Q2453497	http://www.wikidata.org/entity/Q116969485	en	Real-Invest	en	Putinka	2014-01-01T00:00:00Z
+152	http://www.wikidata.org/entity/Q2670967	http://www.wikidata.org/entity/Q95989661	en	Vesa Equity Investment	en	Casino Group	2020-01-01T00:00:00Z
+153	http://www.wikidata.org/entity/Q1998702	http://www.wikidata.org/entity/Q300704	en	Aachen Münchener	en	Nordstern	1935-01-01T00:00:00Z
+154	http://www.wikidata.org/entity/Q2183630	http://www.wikidata.org/entity/Q2137390	en	Libéma	en	Safaripark Beekse Bergen	1987-01-01T00:00:00Z
+155	http://www.wikidata.org/entity/Q2298325	http://www.wikidata.org/entity/Q201653	en	SoftBank Group	en	Boston Dynamics	2017-01-01T00:00:00Z
+156	http://www.wikidata.org/entity/Q2298325	http://www.wikidata.org/entity/Q201653	en	SoftBank Group	en	Boston Dynamics	2021-06-01T00:00:00Z
+157	http://www.wikidata.org/entity/Q2868909	http://www.wikidata.org/entity/Q95464773		Q95464773	en	Ateliers et Chantiers de France	1982-01-01T00:00:00Z
+158	http://www.wikidata.org/entity/Q2883379	http://www.wikidata.org/entity/Q117188724	en	National City Bank of New York	en	Bank of the Republic of Haiti	1919-01-01T00:00:00Z
+159	http://www.wikidata.org/entity/Q2749140	http://www.wikidata.org/entity/Q4734761	en	Alpargatas Argentina	en	Topper	1975-01-01T00:00:00Z
+160	http://www.wikidata.org/entity/Q1471792	http://www.wikidata.org/entity/Q787239	en	Platinum Equity	en	Quark, Inc.	2011-08-09T00:00:00Z
+161	http://www.wikidata.org/entity/Q1471792	http://www.wikidata.org/entity/Q787239	en	Platinum Equity	en	Quark, Inc.	2011-08-09T00:00:00Z
+162	http://www.wikidata.org/entity/Q1727367	http://www.wikidata.org/entity/Q295280	en	AMR Corporation	en	Sabre	1996-01-01T00:00:00Z
+163	http://www.wikidata.org/entity/Q1727367	http://www.wikidata.org/entity/Q295280	en	AMR Corporation	en	Sabre	1996-01-01T00:00:00Z
+164	http://www.wikidata.org/entity/Q1727367	http://www.wikidata.org/entity/Q4376955	en	Sabre Corporation	en	Sabre	2000-03-15T00:00:00Z
+165	http://www.wikidata.org/entity/Q1471792	http://www.wikidata.org/entity/Q110162963	en	Parallax Capital Partners	en	Quark, Inc.	2017-07-12T00:00:00Z
+166	http://www.wikidata.org/entity/Q1375077	http://www.wikidata.org/entity/Q973054	en	Rakuten	en	Tohoku Rakuten Golden Eagles	2004-01-01T00:00:00Z
+167	http://www.wikidata.org/entity/Q1375077	http://www.wikidata.org/entity/Q973054	en	Rakuten	en	Tohoku Rakuten Golden Eagles	2004-01-01T00:00:00Z
+168	http://www.wikidata.org/entity/Q2147466	http://www.wikidata.org/entity/Q2137390	en	Libéma	en	Speelland Beekse Bergen	1987-01-01T00:00:00Z
+169	http://www.wikidata.org/entity/Q3551696	http://www.wikidata.org/entity/Q106640922	en	Advanced Media Broadcasting System	en	DWOW	2010-08-02T00:00:00Z
+170	http://www.wikidata.org/entity/Q3250375	http://www.wikidata.org/entity/Q19724671	en	Radisson Hotel Group	en	Regent Hotels & Resorts	1997-01-01T00:00:00Z
+171	http://www.wikidata.org/entity/Q3561521	http://www.wikidata.org/entity/Q60458161	en	Prisko	en	OKD	2018-01-01T00:00:00Z
+172	http://www.wikidata.org/entity/Q3561521	http://www.wikidata.org/entity/Q60458161	en	Prisko	en	OKD	2018-01-01T00:00:00Z
+173	http://www.wikidata.org/entity/Q2961234	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	Charter Communications	2015-12-31T00:00:00Z
+174	http://www.wikidata.org/entity/Q2961234	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	Charter Communications	2015-12-31T00:00:00Z
+175	http://www.wikidata.org/entity/Q3177009	http://www.wikidata.org/entity/Q688785	en	SL Aerosapce	en	Odyssey	1995-01-01T00:00:00Z
+176	http://www.wikidata.org/entity/Q2956386	http://www.wikidata.org/entity/Q95478893	en	Société Provençale de Constructions Navales	en	Chantier naval de La Ciotat	1916-01-01T00:00:00Z
+177	http://www.wikidata.org/entity/Q2956386	http://www.wikidata.org/entity/Q95464773		Q95464773	en	Chantier naval de La Ciotat	1982-01-01T00:00:00Z
+178	http://www.wikidata.org/entity/Q3114480	http://www.wikidata.org/entity/Q2137390	en	Libéma	en	Expo Assen	2008-01-01T00:00:00Z
+179	http://www.wikidata.org/entity/Q3490485	http://www.wikidata.org/entity/Q37800612	en	Helifreak Limited	en	Seznam.cz	2015-12-31T00:00:00Z
+180	http://www.wikidata.org/entity/Q3494875	http://www.wikidata.org/entity/Q56466264	en	OMPO Holding	en	Omnipol	2015-08-25T00:00:00Z
+181	http://www.wikidata.org/entity/Q3494875	http://www.wikidata.org/entity/Q56466264	en	OMPO Holding	en	Omnipol	2015-08-25T00:00:00Z
+182	http://www.wikidata.org/entity/Q3073139	http://www.wikidata.org/entity/Q67806091	en	Jet 2 Alfa	en	TEDOM	2020-01-01T00:00:00Z
+183	http://www.wikidata.org/entity/Q3073139	http://www.wikidata.org/entity/Q67806091	en	Jet 2 Alfa	en	TEDOM	2020-01-01T00:00:00Z
+184	http://www.wikidata.org/entity/Q3209938	http://www.wikidata.org/entity/Q123819093		Q123819093	en	La Laiterie	1915-01-01T00:00:00Z
+185	http://www.wikidata.org/entity/Q3502551	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Aukro	2019-01-01T00:00:00Z
+186	http://www.wikidata.org/entity/Q3502551	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Aukro	2019-01-01T00:00:00Z
+187	http://www.wikidata.org/entity/Q3508854	http://www.wikidata.org/entity/Q688785	en	SL Aerosapce	en	Sea Launch Commander	1997-01-01T00:00:00Z
+188	http://www.wikidata.org/entity/Q3295867	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	The Coca-Cola Company	2015-12-31T00:00:00Z
+189	http://www.wikidata.org/entity/Q3295867	http://www.wikidata.org/entity/Q217583	en	Berkshire Hathaway	en	The Coca-Cola Company	2015-12-31T00:00:00Z
+190	http://www.wikidata.org/entity/Q3152978	http://www.wikidata.org/entity/Q98928488	en	Kape Technologies	en	Intego	2018-07-01T00:00:00Z
+191	http://www.wikidata.org/entity/Q3831673	http://www.wikidata.org/entity/Q115191961	en	ItaliaOnLine	en	Libero	2002-01-01T00:00:00Z
+192	http://www.wikidata.org/entity/Q3831673	http://www.wikidata.org/entity/Q115191961	en	ItaliaOnLine	en	Libero	2002-01-01T00:00:00Z
+193	http://www.wikidata.org/entity/Q3831673	http://www.wikidata.org/entity/Q48800487	en	Infostrada	en	Libero	1999-01-01T00:00:00Z
+194	http://www.wikidata.org/entity/Q3831673	http://www.wikidata.org/entity/Q48800487	en	Infostrada	en	Libero	1999-01-01T00:00:00Z
+195	http://www.wikidata.org/entity/Q3974759	http://www.wikidata.org/entity/Q85547578	en	ASTRAL	en	State road 148	2007-03-05T00:00:00Z
+196	http://www.wikidata.org/entity/Q3974759	http://www.wikidata.org/entity/Q85547578	en	ASTRAL	en	State road 148	2007-03-05T00:00:00Z
+197	http://www.wikidata.org/entity/Q3974772	http://www.wikidata.org/entity/Q85547578	en	ASTRAL	en	State road 155	2007-03-05T00:00:00Z
+198	http://www.wikidata.org/entity/Q3974772	http://www.wikidata.org/entity/Q85547578	en	ASTRAL	en	State road 155	2007-03-05T00:00:00Z
+199	http://www.wikidata.org/entity/Q3974774	http://www.wikidata.org/entity/Q85547578	en	ASTRAL	en	State road 156	2007-03-05T00:00:00Z
+200	http://www.wikidata.org/entity/Q3974774	http://www.wikidata.org/entity/Q85547578	en	ASTRAL	en	State road 156	2007-03-05T00:00:00Z
+201	http://www.wikidata.org/entity/Q4355084	http://www.wikidata.org/entity/Q86451667	en	Vardar	en	Å Energi	http://www.wikidata.org/.well-known/genid/c4d9380fdfe1338e7e505cbb990d194a
+202	http://www.wikidata.org/entity/Q4111046	http://www.wikidata.org/entity/Q4161561	en	Dixy	en	Victoria Group	2011-01-01T00:00:00Z
+203	http://www.wikidata.org/entity/Q4111046	http://www.wikidata.org/entity/Q4161561	en	Dixy	en	Victoria Group	2011-01-01T00:00:00Z
+204	http://www.wikidata.org/entity/Q4686143	http://www.wikidata.org/entity/Q55468352	en	HNA EcoTech Group Co., Ltd.	en	Leadway Technology Investment Group Limited	2017-12-31T00:00:00Z
+205	http://www.wikidata.org/entity/Q4636412	http://www.wikidata.org/entity/Q9531	en	BBC	en	3SixtyMedia	2022-03-31T00:00:00Z
+206	http://www.wikidata.org/entity/Q4120765	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Mi Pueblo Food Center	2016-01-01T00:00:00Z
+207	http://www.wikidata.org/entity/Q4120765	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Mi Pueblo Food Center	2016-01-01T00:00:00Z
+208	http://www.wikidata.org/entity/Q4705418	http://www.wikidata.org/entity/Q107232475	en	Michigan Natural Storage	en	Alabastine Mine	1957-01-01T00:00:00Z
+209	http://www.wikidata.org/entity/Q4568300	http://www.wikidata.org/entity/Q7275994	en	RC2 Corporation	en	Johnny Lightning	2004-01-01T00:00:00Z
+210	http://www.wikidata.org/entity/Q4568300	http://www.wikidata.org/entity/Q5254927	en	Deluxe Reading	en	Johnny Lightning	1969-01-01T00:00:00Z
+211	http://www.wikidata.org/entity/Q4994188	http://www.wikidata.org/entity/Q113535592	en	ODLO International AG	en	Henri Lloyd	2022-07-01T00:00:00Z
+212	http://www.wikidata.org/entity/Q5244012	http://www.wikidata.org/entity/Q152695	en	Amer Sports	en	DeMarini	2000-01-01T00:00:00Z
+213	http://www.wikidata.org/entity/Q5244012	http://www.wikidata.org/entity/Q152695	en	Amer Sports	en	DeMarini	2000-01-01T00:00:00Z
+214	http://www.wikidata.org/entity/Q5032177	http://www.wikidata.org/entity/Q99836781	en	Funtank	en	Candystand	2008-08-01T00:00:00Z
+215	http://www.wikidata.org/entity/Q5319190	http://www.wikidata.org/entity/Q5323238	en	EKCO	en	Dynatron Radio Ltd	1954-01-01T00:00:00Z
+216	http://www.wikidata.org/entity/Q5319190	http://www.wikidata.org/entity/Q5323238	en	EKCO	en	Dynatron Radio Ltd	1954-01-01T00:00:00Z
+217	http://www.wikidata.org/entity/Q5177332	http://www.wikidata.org/entity/Q19724671	en	Radisson Hotel Group	en	Country Inn & Suites by Radisson	1986-01-01T00:00:00Z
+218	http://www.wikidata.org/entity/Q4836021	http://www.wikidata.org/entity/Q97961992	en	Brilliance China Automotive Holdings	en	BMW Brilliance	2003-01-01T00:00:00Z
+219	http://www.wikidata.org/entity/Q4836021	http://www.wikidata.org/entity/Q97961992	en	Brilliance China Automotive Holdings	en	BMW Brilliance	2018-01-01T00:00:00Z
+220	http://www.wikidata.org/entity/Q5479360	http://www.wikidata.org/entity/Q95989661	en	Vesa Equity Investment	en	Macy's, Inc.	2020-05-01T00:00:00Z
+221	http://www.wikidata.org/entity/Q5270866	http://www.wikidata.org/entity/Q106997900	en	International Match Corporation	en	Diamond Match Company	1930-09-01T00:00:00Z
+222	http://www.wikidata.org/entity/Q4162216	http://www.wikidata.org/entity/Q106093155	en	Kukana Enterprises	en	Energetický a průmyslový holding	2021-01-01T00:00:00Z
+223	http://www.wikidata.org/entity/Q4162216	http://www.wikidata.org/entity/Q104245554	en	EP Corporate Group	en	Energetický a průmyslový holding	2021-12-31T00:00:00Z
+224	http://www.wikidata.org/entity/Q5586408	http://www.wikidata.org/entity/Q48386771	en	Gorham Manufacturing Company	en	Gorham Building	1903-01-01T00:00:00Z
+225	http://www.wikidata.org/entity/Q5962271	http://www.wikidata.org/entity/Q57536453	en	Hysan Estates Limited	en	Hysan Development Company Limited	2017-12-31T00:00:00Z
+226	http://www.wikidata.org/entity/Q5921598	http://www.wikidata.org/entity/Q95989661	en	Vesa Equity Investment	en	PostNL	2022-12-31T00:00:00Z
+227	http://www.wikidata.org/entity/Q7457182	http://www.wikidata.org/entity/Q11278357	en	Seven-Eleven Japan	en	Seven Bank	2022-03-31T00:00:00Z
+228	http://www.wikidata.org/entity/Q7448650	http://www.wikidata.org/entity/Q81333468	en	CBC Europe	en	Sellier & Bellot	2012-01-01T00:00:00Z
+229	http://www.wikidata.org/entity/Q7281341	http://www.wikidata.org/entity/Q19724671	en	Radisson Hotel Group	en	Radisson Blu	1994-01-01T00:00:00Z
+230	http://www.wikidata.org/entity/Q7226016	http://www.wikidata.org/entity/Q105993717	en	Warner Music Poland Sp. z o.o.	en	Polskie Nagrania Muza	2015-01-29T00:00:00Z
+231	http://www.wikidata.org/entity/Q6929437	http://www.wikidata.org/entity/Q683170	en	S. C. Johnson & Son	en	Mr Muscle	1992-01-01T00:00:00Z
+232	http://www.wikidata.org/entity/Q6929437	http://www.wikidata.org/entity/Q683170	en	S. C. Johnson & Son	en	Mr Muscle	1992-01-01T00:00:00Z
+233	http://www.wikidata.org/entity/Q6929437	http://www.wikidata.org/entity/Q5304634	en	Drackett	en	Mr Muscle	1986-01-01T00:00:00Z
+234	http://www.wikidata.org/entity/Q7115636	http://www.wikidata.org/entity/Q63659583	en	Peanuts Worldwide	en	Peanuts	2010-06-03T00:00:00Z
+235	http://www.wikidata.org/entity/Q6675775	http://www.wikidata.org/entity/Q16988748	en	CoStar Group	en	LoopNet	2012-04-01T00:00:00Z
+236	http://www.wikidata.org/entity/Q7355641	http://www.wikidata.org/entity/Q805757	en	Baltimore and Ohio Railroad	en	Rockville Railroad Station	1873-01-01T00:00:00Z
+237	http://www.wikidata.org/entity/Q7355289	http://www.wikidata.org/entity/Q24035626	en	FIL Investment Services (UK) Limited	en	Rockhopper Exploration	2016-05-08T00:00:00Z
+238	http://www.wikidata.org/entity/Q7190127	http://www.wikidata.org/entity/Q12719751	en	3TS Capital Partners	en	Piano Media	2012-01-01T00:00:00Z
+239	http://www.wikidata.org/entity/Q7390199	http://www.wikidata.org/entity/Q96728847	en	SaS Energo	en	SaS group Tower	2012-01-01T00:00:00Z
+240	http://www.wikidata.org/entity/Q8042820	http://www.wikidata.org/entity/Q11506213	en	Japan Asia Group	en	Xacti	2018-04-02T00:00:00Z
+241	http://www.wikidata.org/entity/Q7969414	http://www.wikidata.org/entity/Q555273	en	Plaion	en	Warhorse Studios	2019-02-13T00:00:00Z
+242	http://www.wikidata.org/entity/Q8056788	http://www.wikidata.org/entity/Q9531	en	BBC	en	YouView	2022-03-31T00:00:00Z
+243	http://www.wikidata.org/entity/Q7838011	http://www.wikidata.org/entity/Q757307	en	Atlassian	en	Trello	2017-01-01T00:00:00Z
+244	http://www.wikidata.org/entity/Q7838011	http://www.wikidata.org/entity/Q757307	en	Atlassian	en	Trello	2017-01-01T00:00:00Z
+245	http://www.wikidata.org/entity/Q10786832	http://www.wikidata.org/entity/Q29582642	en	L. S. Investments Limited	en	Alza.cz	2008-01-01T00:00:00Z
+246	http://www.wikidata.org/entity/Q10333921	http://www.wikidata.org/entity/Q126948365	en	O Valor do Tempo	en	Museu do Pão	2002-01-01T00:00:00Z
+247	http://www.wikidata.org/entity/Q11274132	http://www.wikidata.org/entity/Q118164991		Q118164991	en	Nakau	2021-11-01T00:00:00Z
+248	http://www.wikidata.org/entity/Q11301951	http://www.wikidata.org/entity/Q118164672		Q118164672	en	Coco’s Japan	2020-02-20T00:00:00Z
+249	http://www.wikidata.org/entity/Q11287987	http://www.wikidata.org/entity/Q115615647	en	LINE Digital Frontier	en	eBook Initiative Japan	2022-03-31T00:00:00Z
+250	http://www.wikidata.org/entity/Q11528731	http://www.wikidata.org/entity/Q11506449	en	Nippon Concrete Industries	en	TEPCO Logistics	2023-05-01T00:00:00Z
+251	http://www.wikidata.org/entity/Q11347956	http://www.wikidata.org/entity/Q1636542	en	Japan Atomic Power Company	en	Recyclable Fuel Storage	2022-06-24T00:00:00Z
+252	http://www.wikidata.org/entity/Q11347956	http://www.wikidata.org/entity/Q1636542	en	Japan Atomic Power Company	en	Recyclable Fuel Storage	2022-06-24T00:00:00Z
+253	http://www.wikidata.org/entity/Q11508965	http://www.wikidata.org/entity/Q21034940	en	TEPCO Energy Partner	en	Japan Natural Energy	2022-03-31T00:00:00Z
+254	http://www.wikidata.org/entity/Q11508965	http://www.wikidata.org/entity/Q21034940	en	TEPCO Energy Partner	en	Japan Natural Energy	2022-03-31T00:00:00Z
+255	http://www.wikidata.org/entity/Q12043823	http://www.wikidata.org/entity/Q77801603	en	Notino Limited	en	Noti	2012-01-01T00:00:00Z
+256	http://www.wikidata.org/entity/Q12058335	http://www.wikidata.org/entity/Q96177610	en	Ty & Já	en	Jemča	2020-01-01T00:00:00Z
+257	http://www.wikidata.org/entity/Q12059604	http://www.wikidata.org/entity/Q82250864	en	Rail Invest	en	Traťová strojní společnost	2019-01-01T00:00:00Z
+258	http://www.wikidata.org/entity/Q12051566	http://www.wikidata.org/entity/Q58218859	en	Severočeská vodárenská společnost	en	Severočeské vodovody a kanalizace	2019-01-01T00:00:00Z
+259	http://www.wikidata.org/entity/Q12051566	http://www.wikidata.org/entity/Q58218859	en	Severočeská vodárenská společnost	en	Severočeské vodovody a kanalizace	2019-01-01T00:00:00Z
+260	http://www.wikidata.org/entity/Q11528241	http://www.wikidata.org/entity/Q49125	en	Toshiba	en	Toshiba Lifestyle Products & Services	2016-06-30T00:00:00Z
+261	http://www.wikidata.org/entity/Q11528241	http://www.wikidata.org/entity/Q49125	en	Toshiba	en	Toshiba Lifestyle Products & Services	2016-06-30T00:00:00Z
+262	http://www.wikidata.org/entity/Q11350491	http://www.wikidata.org/entity/Q24886018	en	LOTTE	en	Lotte: Uta no Album	1958-01-01T00:00:00Z
+263	http://www.wikidata.org/entity/Q12194344	http://www.wikidata.org/entity/Q11283119	en	Generali Česká pojišťovna	en	Pojišťovna Patricie	2019-01-01T00:00:00Z
+264	http://www.wikidata.org/entity/Q12029838	http://www.wikidata.org/entity/Q98930276	en	Zámek Koloděje	en	Koloděje chateau	2010-01-01T00:00:00Z
+265	http://www.wikidata.org/entity/Q12021780	http://www.wikidata.org/entity/Q82135473	en	PPF burzovní společnost	en	Investiční a poštovní banka	2002-12-31T00:00:00Z
+266	http://www.wikidata.org/entity/Q12035980	http://www.wikidata.org/entity/Q304944	en	České dráhy	en	Masaryk Station Development	2015-12-31T00:00:00Z
+267	http://www.wikidata.org/entity/Q12035980	http://www.wikidata.org/entity/Q304944	en	České dráhy	en	Masaryk Station Development	2015-12-31T00:00:00Z
+268	http://www.wikidata.org/entity/Q11395551	http://www.wikidata.org/entity/Q11229109	en	Line Corporation	en	Demae-can	2020-01-01T00:00:00Z
+269	http://www.wikidata.org/entity/Q11395551	http://www.wikidata.org/entity/Q489247	en	Naver Corporation	en	Demae-can	2022-08-31T00:00:00Z
+270	http://www.wikidata.org/entity/Q11395551	http://www.wikidata.org/entity/Q489247	en	Naver Corporation	en	Demae-can	2022-08-31T00:00:00Z
+271	http://www.wikidata.org/entity/Q12021780	http://www.wikidata.org/entity/Q82125357	en	Saluka Investment	en	Investiční a poštovní banka	2002-12-31T00:00:00Z
+272	http://www.wikidata.org/entity/Q11395551	http://www.wikidata.org/entity/Q11229109	en	Line Corporation	en	Demae-can	2022-08-31T00:00:00Z
+273	http://www.wikidata.org/entity/Q11395551	http://www.wikidata.org/entity/Q86734122	en	LY Corporation	en	Demae-can	2022-08-31T00:00:00Z
+274	http://www.wikidata.org/entity/Q13420151	http://www.wikidata.org/entity/Q12021343	en	ICOM transport	en	ČSAD Ústí nad Orlicí	2019-01-01T00:00:00Z
+275	http://www.wikidata.org/entity/Q13420151	http://www.wikidata.org/entity/Q12021343	en	ICOM transport	en	ČSAD Ústí nad Orlicí	2019-01-01T00:00:00Z
+276	http://www.wikidata.org/entity/Q11961178	http://www.wikidata.org/entity/Q27022329	en	Snap Inc.	en	Bitstrips	2016-01-01T00:00:00Z
+277	http://www.wikidata.org/entity/Q13626212	http://www.wikidata.org/entity/Q327169	en	STADA Arzneimittel	en	Eurogenerics	1991-01-01T00:00:00Z
+278	http://www.wikidata.org/entity/Q11878929	http://www.wikidata.org/entity/Q108884973	en	Elrond Holding CZ	en	ENERGY Ústí nad Labem	2006-01-01T00:00:00Z
+279	http://www.wikidata.org/entity/Q11888544	http://www.wikidata.org/entity/Q183412	en	EMI	en	Poko Rekords	2009-01-01T00:00:00Z
+280	http://www.wikidata.org/entity/Q11865434	http://www.wikidata.org/entity/Q26944991	en	G.A. Serlachius Oy	en	J. W. Enqvist	1965-01-01T00:00:00Z
+281	http://www.wikidata.org/entity/Q12874193	http://www.wikidata.org/entity/Q4072287	en	Elliniko Metro	en	Attiko Metro Operation Company	2001-02-15T00:00:00Z
+282	http://www.wikidata.org/entity/Q12874193	http://www.wikidata.org/entity/Q4072287	en	Elliniko Metro	en	Attiko Metro Operation Company	2001-02-15T00:00:00Z
+283	http://www.wikidata.org/entity/Q11883666	http://www.wikidata.org/entity/Q56400365	en	Sponsor Capital	en	Myllyn Paras	2018-01-01T00:00:00Z
+284	http://www.wikidata.org/entity/Q12335740	http://www.wikidata.org/entity/Q116566928		Q116566928	en	SkoleIntra	2013-01-01T00:00:00Z
+285	http://www.wikidata.org/entity/Q11801605	http://www.wikidata.org/entity/Q17098642	en	Prasa-Książka-Ruch	en	Ośrodek Badań Prasoznawczych	1973-01-01T00:00:00Z
+286	http://www.wikidata.org/entity/Q11705283	http://www.wikidata.org/entity/Q7750720	en	The May Department Stores Company	en	Westfield Montgomery	1968-03-06T00:00:00Z
+287	http://www.wikidata.org/entity/Q11602061	http://www.wikidata.org/entity/Q716457	en	Toyota Tsusho	en	First Baking Co., Ltd.	2009-12-01T00:00:00Z
+288	http://www.wikidata.org/entity/Q12021780	http://www.wikidata.org/entity/Q82127410	en	Bankovní holding	en	Investiční a poštovní banka	2002-12-31T00:00:00Z
+289	http://www.wikidata.org/entity/Q12021780	http://www.wikidata.org/entity/Q82134173	en	První investiční společnost	en	Investiční a poštovní banka	2002-12-31T00:00:00Z
+290	http://www.wikidata.org/entity/Q15735082	http://www.wikidata.org/entity/Q304944	en	České dráhy	en	JLV	2015-12-31T00:00:00Z
+291	http://www.wikidata.org/entity/Q15735082	http://www.wikidata.org/entity/Q304944	en	České dráhy	en	JLV	2015-12-31T00:00:00Z
+292	http://www.wikidata.org/entity/Q14329658	http://www.wikidata.org/entity/Q98956716	en	4check	en	About Me	2018-01-01T00:00:00Z
+293	http://www.wikidata.org/entity/Q14339924	http://www.wikidata.org/entity/Q98959120	en	Arriva International Limited	en	Arriva Transport Česká republika	2016-01-01T00:00:00Z
+294	http://www.wikidata.org/entity/Q16040166	http://www.wikidata.org/entity/Q5554388	en	Getaround	en	Getaround SAS	2019-04-24T00:00:00Z
+295	http://www.wikidata.org/entity/Q16258185	http://www.wikidata.org/entity/Q24035647	en	Worldview Capital Management	en	Petroceltic International	2016-05-08T00:00:00Z
+296	http://www.wikidata.org/entity/Q16258185	http://www.wikidata.org/entity/Q24035656	en	Sky Investments	en	Petroceltic International	2016-04-06T00:00:00Z
+297	http://www.wikidata.org/entity/Q16258185	http://www.wikidata.org/entity/Q24035651	en	Vidacos Nominees	en	Petroceltic International	2015-07-24T00:00:00Z
+298	http://www.wikidata.org/entity/Q11313291	http://www.wikidata.org/entity/Q7562429	en	Sony Bank	en	Sony Payment Services	2022-06-23T00:00:00Z
+299	http://www.wikidata.org/entity/Q11313291	http://www.wikidata.org/entity/Q7562429	en	Sony Bank	en	Sony Payment Services	2022-06-23T00:00:00Z
+300	http://www.wikidata.org/entity/Q11242605	http://www.wikidata.org/entity/Q97310224	en	SBI Insurance Group	en	SBI Insurance Company	2023-02-01T00:00:00Z
+301	http://www.wikidata.org/entity/Q11242605	http://www.wikidata.org/entity/Q97310224	en	SBI Insurance Group	en	SBI Insurance Company	2023-02-01T00:00:00Z
+302	http://www.wikidata.org/entity/Q11080926	http://www.wikidata.org/entity/Q7012564	en	Vision Values Holdings Limited	en	New World PCS Limited	2004-01-01T00:00:00Z
+303	http://www.wikidata.org/entity/Q11341448	http://www.wikidata.org/entity/Q8069229	en	Zensho Holdings	en	Joy Mart	2012-11-01T00:00:00Z
+304	http://www.wikidata.org/entity/Q11660564	http://www.wikidata.org/entity/Q11315289	en	SB Technology	en	Denen	2020-07-01T00:00:00Z
+305	http://www.wikidata.org/entity/Q11331721	http://www.wikidata.org/entity/Q97310224	en	SBI Insurance Group	en	SBI Life Insurance	2017-03-01T00:00:00Z
+306	http://www.wikidata.org/entity/Q11331721	http://www.wikidata.org/entity/Q97310224	en	SBI Insurance Group	en	SBI Life Insurance	2017-03-01T00:00:00Z
+307	http://www.wikidata.org/entity/Q11903473	http://www.wikidata.org/entity/Q118667944	en	Titancoin International	en	Vivantis	2022-01-01T00:00:00Z
+308	http://www.wikidata.org/entity/Q11251714	http://www.wikidata.org/entity/Q734663	en	TV Tokyo	en	U-NEXT	2023-07-01T00:00:00Z
+309	http://www.wikidata.org/entity/Q14935410	http://www.wikidata.org/entity/Q103935826	en	Australian Estates Company	en	Elderslie Station	1924-01-01T00:00:00Z
+310	http://www.wikidata.org/entity/Q16960587	http://www.wikidata.org/entity/Q848490	en	Roland Corporation	en	V-Moda	2019-01-01T00:00:00Z
+311	http://www.wikidata.org/entity/Q12021780	http://www.wikidata.org/entity/Q82136502	en	IPB Group Holding	en	Investiční a poštovní banka	2002-12-31T00:00:00Z
+312	http://www.wikidata.org/entity/Q14806844	http://www.wikidata.org/entity/Q41567898	en	Sudop Group	en	Sudop Praha	2019-01-01T00:00:00Z
+313	http://www.wikidata.org/entity/Q14806844	http://www.wikidata.org/entity/Q41567898	en	Sudop Group	en	Sudop Praha	2019-01-01T00:00:00Z
+314	http://www.wikidata.org/entity/Q15804138	http://www.wikidata.org/entity/Q98928488	en	Kape Technologies	en	CyberGhost	2017-03-01T00:00:00Z
+315	http://www.wikidata.org/entity/Q16140550	http://www.wikidata.org/entity/Q2214105	en	SoftBank Mobile	en	Wireless City Planning	2018-01-01T00:00:00Z
+316	http://www.wikidata.org/entity/Q14849064	http://www.wikidata.org/entity/Q2137390	en	Libéma	en	Americahal	2011-05-01T00:00:00Z
+317	http://www.wikidata.org/entity/Q16931259	http://www.wikidata.org/entity/Q2836957	en	Alimentation Couche-Tard	en	On the Run	2009-01-01T00:00:00Z
+318	http://www.wikidata.org/entity/Q16981132	http://www.wikidata.org/entity/Q23384493	en	Delivery Hero	en	foodpanda	2016-12-01T00:00:00Z
+319	http://www.wikidata.org/entity/Q16981132	http://www.wikidata.org/entity/Q23384493	en	Delivery Hero	en	foodpanda	2016-12-01T00:00:00Z
+320	http://www.wikidata.org/entity/Q18049522	http://www.wikidata.org/entity/Q5003490	en	BuzzFeed	en	HuffPost	2020-11-19T00:00:00Z
+321	http://www.wikidata.org/entity/Q17076224	http://www.wikidata.org/entity/Q98928488	en	Kape Technologies	en	Private Internet Access	2019-12-01T00:00:00Z
+322	http://www.wikidata.org/entity/Q18113896	http://www.wikidata.org/entity/Q99670661	en	Seznam.cz investiční	en	Kupi.cz	2014-01-01T00:00:00Z
+323	http://www.wikidata.org/entity/Q17083157	http://www.wikidata.org/entity/Q180106	en	Owens-Illinois	en	New England Glass Company	1935-01-01T00:00:00Z
+324	http://www.wikidata.org/entity/Q17083157	http://www.wikidata.org/entity/Q180106	en	Owens-Illinois	en	New England Glass Company	1935-01-01T00:00:00Z
+325	http://www.wikidata.org/entity/Q16801226	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	LB&SCR A1X class 40 Brighton → W11 Newport	1901-10-23T00:00:00Z
+326	http://www.wikidata.org/entity/Q19751474	http://www.wikidata.org/entity/Q219635	en	BlackRock	en	CT Corpora	2018-02-01T00:00:00Z
+327	http://www.wikidata.org/entity/Q18689179	http://www.wikidata.org/entity/Q56400365	en	Sponsor Capital	en	StaffPoint	2017-12-01T00:00:00Z
+328	http://www.wikidata.org/entity/Q18689033	http://www.wikidata.org/entity/Q56400365	en	Sponsor Capital	en	Orthex Group	2015-01-01T00:00:00Z
+329	http://www.wikidata.org/entity/Q17153156	http://www.wikidata.org/entity/Q619121	en	Apollo Global Management	en	McGraw-Hill Education	2013-01-01T00:00:00Z
+330	http://www.wikidata.org/entity/Q17153156	http://www.wikidata.org/entity/Q619121	en	Apollo Global Management	en	McGraw-Hill Education	2013-01-01T00:00:00Z
+331	http://www.wikidata.org/entity/Q17153156	http://www.wikidata.org/entity/Q787239	en	Platinum Equity	en	McGraw-Hill Education	2021-01-01T00:00:00Z
+332	http://www.wikidata.org/entity/Q17153156	http://www.wikidata.org/entity/Q787239	en	Platinum Equity	en	McGraw-Hill Education	2021-01-01T00:00:00Z
+333	http://www.wikidata.org/entity/Q18700766	http://www.wikidata.org/entity/Q201653	en	SoftBank Group	en	Terras Energy	2023-04-28T00:00:00Z
+334	http://www.wikidata.org/entity/Q18700766	http://www.wikidata.org/entity/Q716457	en	Toyota Tsusho	en	Terras Energy	2023-04-28T00:00:00Z
+335	http://www.wikidata.org/entity/Q17228896	http://www.wikidata.org/entity/Q5215421	en	Sumitomo Mitsui Trust Bank	en	SBI Sumishin Net Bank	2023-03-29T00:00:00Z
+336	http://www.wikidata.org/entity/Q17228896	http://www.wikidata.org/entity/Q5215421	en	Sumitomo Mitsui Trust Bank	en	SBI Sumishin Net Bank	2023-03-29T00:00:00Z
+337	http://www.wikidata.org/entity/Q20058040	http://www.wikidata.org/entity/Q95722957	en	Heimstaden Bostad Invest	en	Heimstaden Czech	2020-01-01T00:00:00Z
+338	http://www.wikidata.org/entity/Q17278838	http://www.wikidata.org/entity/Q97384467	en	R-Stump	en	Radio Čas	2019-01-01T00:00:00Z
+339	http://www.wikidata.org/entity/Q19800576	http://www.wikidata.org/entity/Q101070676	en	ED Holding	en	Elektrizace železnic Praha	2010-01-01T00:00:00Z
+340	http://www.wikidata.org/entity/Q20057477	http://www.wikidata.org/entity/Q67805275	en	Invia Group	en	Invia	2016-01-01T00:00:00Z
+341	http://www.wikidata.org/entity/Q20057477	http://www.wikidata.org/entity/Q67805275	en	Invia Group	en	Invia	2016-01-01T00:00:00Z
+342	http://www.wikidata.org/entity/Q17221821	http://www.wikidata.org/entity/Q11278357	en	Seven-Eleven Japan	en	7-Eleven, Inc.	2005-02-01T00:00:00Z
+343	http://www.wikidata.org/entity/Q17221821	http://www.wikidata.org/entity/Q11278357	en	Seven-Eleven Japan	en	7-Eleven, Inc.	2005-11-01T00:00:00Z
+344	http://www.wikidata.org/entity/Q17221821	http://www.wikidata.org/entity/Q124291120	en	SEJ Asset Management & Investment Company	en	7-Eleven, Inc.	2012-01-01T00:00:00Z
+345	http://www.wikidata.org/entity/Q19941803	http://www.wikidata.org/entity/Q82250864	en	Rail Invest	en	Ostravské opravny a strojírny	2008-01-01T00:00:00Z
+346	http://www.wikidata.org/entity/Q19599550	http://www.wikidata.org/entity/Q111759432	en	Reddit Inc.	en	RedditGifts	2011-08-01T00:00:00Z
+347	http://www.wikidata.org/entity/Q19911912	http://www.wikidata.org/entity/Q53950502	en	Pinakos Inc	en	The Garden of the Tuileries on a Winter Afternoon	1951-02-21T00:00:00Z
+348	http://www.wikidata.org/entity/Q20251634	http://www.wikidata.org/entity/Q56400365	en	Sponsor Capital	en	Herrmans	2018-01-01T00:00:00Z
+349	http://www.wikidata.org/entity/Q21018855	http://www.wikidata.org/entity/Q22122966	en	SB Players		Q21018855	2014-11-01T00:00:00Z
+350	http://www.wikidata.org/entity/Q18449472	http://www.wikidata.org/entity/Q104812849	en	Anglo-French Banking Corporation, Ltd.	en	Banque des Pays du Nord	1928-01-01T00:00:00Z
+351	http://www.wikidata.org/entity/Q18754907	http://www.wikidata.org/entity/Q111759432	en	Reddit Inc.	en	Alien Blue	2014-10-15T00:00:00Z
+352	http://www.wikidata.org/entity/Q24003219	http://www.wikidata.org/entity/Q101251444	en	Pulp Trading	en	Lenzing Biocel Paskov	2012-01-01T00:00:00Z
+353	http://www.wikidata.org/entity/Q20056333	http://www.wikidata.org/entity/Q98081129	en	Twitch Interactive	en	Internet Game Database	2019-09-01T00:00:00Z
+354	http://www.wikidata.org/entity/Q21170490	http://www.wikidata.org/entity/Q7393338	en	SS Cars Ltd	en	Jaguar	1935-01-01T00:00:00Z
+355	http://www.wikidata.org/entity/Q20045097	http://www.wikidata.org/entity/Q118164991		Q118164991	en	Sukiya	2021-11-01T00:00:00Z
+356	http://www.wikidata.org/entity/Q24025011	http://www.wikidata.org/entity/Q121898923	en	Liwa Investment Group	en	Křemýž Castle	2005-01-01T00:00:00Z
+357	http://www.wikidata.org/entity/Q21716146	http://www.wikidata.org/entity/Q108052124	en	PZ PROJEKT	en	Obchodní centrum Letmo	2021-08-11T00:00:00Z
+358	http://www.wikidata.org/entity/Q24026961	http://www.wikidata.org/entity/Q56508458	en	The Newport Dry Dock Wood Iron Ship Repairing Co. Ltd	en	Morriston	1880-01-01T00:00:00Z
+359	http://www.wikidata.org/entity/Q24027338	http://www.wikidata.org/entity/Q56508524	en	The Weymouth Diving Towing Co	en	Ellen Beatrice	1920-01-01T00:00:00Z
+360	http://www.wikidata.org/entity/Q23936316	http://www.wikidata.org/entity/Q56557623	en	Buchanon's Flour Mills	en	Eliza Francis	1920-01-01T00:00:00Z
+361	http://www.wikidata.org/entity/Q18349892	http://www.wikidata.org/entity/Q16839281	en	Baycomms Broadcasting Corporation	en	DWYO	2019-01-01T00:00:00Z
+362	http://www.wikidata.org/entity/Q18620225	http://www.wikidata.org/entity/Q123482607	en	AŽU Praha Holding	en	DAKO-CZ	2000-12-31T00:00:00Z
+363	http://www.wikidata.org/entity/Q24027346	http://www.wikidata.org/entity/Q56557695	en	Liverpool Lighterage Co	en	Walter J. Cummins	1915-01-01T00:00:00Z
+364	http://www.wikidata.org/entity/Q20857833	http://www.wikidata.org/entity/Q787239	en	Platinum Equity	en	Oregon Tool, Inc.	2021-07-14T00:00:00Z
+365	http://www.wikidata.org/entity/Q20857833	http://www.wikidata.org/entity/Q787239	en	Platinum Equity	en	Oregon Tool, Inc.	2021-07-14T00:00:00Z
+366	http://www.wikidata.org/entity/Q24027066	http://www.wikidata.org/entity/Q56508312	en	Aberystwyth Cardigan Bay Steam Packet Co.	en	Express	1869-01-01T00:00:00Z
+367	http://www.wikidata.org/entity/Q24027388	http://www.wikidata.org/entity/Q56508352	en	William C. Spooner & Bailey	en	Mediterranean	1867-01-01T00:00:00Z
+368	http://www.wikidata.org/entity/Q22127780	http://www.wikidata.org/entity/Q2214105	en	SoftBank Mobile	en	Scigineer	2018-01-01T00:00:00Z
+369	http://www.wikidata.org/entity/Q18620225	http://www.wikidata.org/entity/Q112001753	en	Triblan	en	DAKO-CZ	2021-01-01T00:00:00Z
+370	http://www.wikidata.org/entity/Q24027253	http://www.wikidata.org/entity/Q56508333	en	Thomas & Roberts	en	Wellington	1863-01-01T00:00:00Z
+371	http://www.wikidata.org/entity/Q24027394	http://www.wikidata.org/entity/Q56508312	en	Aberystwyth Cardigan Bay Steam Packet Co.	en	Henry E. Taylor	1870-01-01T00:00:00Z
+372	http://www.wikidata.org/entity/Q24027141	http://www.wikidata.org/entity/Q56508333	en	Thomas & Roberts	en	Battus	1863-01-01T00:00:00Z
+373	http://www.wikidata.org/entity/Q24027132	http://www.wikidata.org/entity/Q56508311	en	Aberystwyth Aberdyfi Steam Packet Co Ltd	en	Countess of Lisburne	1900-01-01T00:00:00Z
+374	http://www.wikidata.org/entity/Q24027448	http://www.wikidata.org/entity/Q56508404	en	John Evans & Mary Evans	en	Desdemona	1891-01-01T00:00:00Z
+375	http://www.wikidata.org/entity/Q27830745	http://www.wikidata.org/entity/Q64156385	en	EC Investments	en	E-commerce Holding	2017-01-01T00:00:00Z
+376	http://www.wikidata.org/entity/Q27830745	http://www.wikidata.org/entity/Q64156385	en	EC Investments	en	E-commerce Holding	2017-01-01T00:00:00Z
+377	http://www.wikidata.org/entity/Q27898860	http://www.wikidata.org/entity/Q73421997	en	Cloud Network Technology	en	Foxconn CZ	2018-01-01T00:00:00Z
+378	http://www.wikidata.org/entity/Q28134994	http://www.wikidata.org/entity/Q27022329	en	Snap Inc.	en	Gfycat	2022-01-01T00:00:00Z
+379	http://www.wikidata.org/entity/Q28920259	http://www.wikidata.org/entity/Q28920338	en	innogy Česká republika	en	innogy Energie	2014-01-01T00:00:00Z
+380	http://www.wikidata.org/entity/Q28920259	http://www.wikidata.org/entity/Q28920338	en	innogy Česká republika	en	innogy Energie	2014-01-01T00:00:00Z
+381	http://www.wikidata.org/entity/Q28920338	http://www.wikidata.org/entity/Q95949113	en	innogy Beteiligungsholding	en	innogy Česká republika	2018-01-01T00:00:00Z
+382	http://www.wikidata.org/entity/Q28233721	http://www.wikidata.org/entity/Q19724671	en	Radisson Hotel Group	en	Radisson Red	2014-01-01T00:00:00Z
+383	http://www.wikidata.org/entity/Q27450053	http://www.wikidata.org/entity/Q36878383	en	Veolia Česká republika	en	Pražská teplárenská	2020-01-01T00:00:00Z
+384	http://www.wikidata.org/entity/Q27450053	http://www.wikidata.org/entity/Q36878383	en	Veolia Česká republika	en	Pražská teplárenská	2020-01-01T00:00:00Z
+385	http://www.wikidata.org/entity/Q24037933	http://www.wikidata.org/entity/Q24037950	en	HSBC Custody Nominees Australia	en	Audax Energy	2016-05-08T00:00:00Z
+386	http://www.wikidata.org/entity/Q24037933	http://www.wikidata.org/entity/Q24037938	en	J. P. Morgan Nominees Australia	en	Audax Energy	2016-05-08T00:00:00Z
+387	http://www.wikidata.org/entity/Q24027222	http://www.wikidata.org/entity/Q56508380	en	Messrs. Thomas & Sons	en	Thomas & Sons	1864-01-01T00:00:00Z
+388	http://www.wikidata.org/entity/Q24068412	http://www.wikidata.org/entity/Q23384493	en	Delivery Hero	en	Foodora	http://www.wikidata.org/.well-known/genid/6d3c633bbbdc0becb521f641d60f785e
+389	http://www.wikidata.org/entity/Q24068412	http://www.wikidata.org/entity/Q23384493	en	Delivery Hero	en	Foodora	http://www.wikidata.org/.well-known/genid/6d3c633bbbdc0becb521f641d60f785e
+390	http://www.wikidata.org/entity/Q25454926	http://www.wikidata.org/entity/Q67809905	en	Packeta	en	Zásilkovna	2018-01-01T00:00:00Z
+391	http://www.wikidata.org/entity/Q25454926	http://www.wikidata.org/entity/Q67809905	en	Packeta	en	Zásilkovna	2018-01-01T00:00:00Z
+392	http://www.wikidata.org/entity/Q26777551	http://www.wikidata.org/entity/Q35907	en	Land Rover	en	Land Rover	1978-01-01T00:00:00Z
+393	http://www.wikidata.org/entity/Q30258661	http://www.wikidata.org/entity/Q112625261	en	IB Seat	en	BORCAD cz	2018-01-01T00:00:00Z
+394	http://www.wikidata.org/entity/Q30258623	http://www.wikidata.org/entity/Q41567861	en	Selgen	en	Oseva Pro	2019-01-01T00:00:00Z
+395	http://www.wikidata.org/entity/Q30258623	http://www.wikidata.org/entity/Q41567861	en	Selgen	en	Oseva Pro	2019-01-01T00:00:00Z
+396	http://www.wikidata.org/entity/Q30258861	http://www.wikidata.org/entity/Q67806731	en	TTC Holding	en	TTC Telekomunikace	2019-01-01T00:00:00Z
+397	http://www.wikidata.org/entity/Q30258861	http://www.wikidata.org/entity/Q67806731	en	TTC Holding	en	TTC Telekomunikace	2019-01-01T00:00:00Z
+398	http://www.wikidata.org/entity/Q30258421	http://www.wikidata.org/entity/Q116924457	en	Verignis	en	Eltodo	2022-01-01T00:00:00Z
+399	http://www.wikidata.org/entity/Q36240316	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	LB&SCR A1 class 84 “Crowborough”	1903-11-01T00:00:00Z
+400	http://www.wikidata.org/entity/Q36099871	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	North London Railway 35	1887-10-26T00:00:00Z
+401	http://www.wikidata.org/entity/Q36090705	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	R. & W. Hawthorn works no. 1128	1887-07-19T00:00:00Z
+402	http://www.wikidata.org/entity/Q36077875	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	Beyer Peacock works no. 1583	1887-10-26T00:00:00Z
+403	http://www.wikidata.org/entity/Q36097156	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	Beyer Peacock works no. 1584	1887-10-26T00:00:00Z
+404	http://www.wikidata.org/entity/Q36046879	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	Cowes and Newport Railway 1 “Pioneer”	1887-10-26T00:00:00Z
+405	http://www.wikidata.org/entity/Q36235495	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	LB&SCR A1 class 69 “Peckham”	1900-02-01T00:00:00Z
+406	http://www.wikidata.org/entity/Q36233798	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	LB&SCR A1 class 75 “Blackwall”	1899-03-01T00:00:00Z
+407	http://www.wikidata.org/entity/Q36244930	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	Hawthorn, Leslie & co. works no. 2669	1906-01-01T00:00:00Z
+408	http://www.wikidata.org/entity/Q36090705	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	R. & W. Hawthorn works no. 1128	1887-10-26T00:00:00Z
+409	http://www.wikidata.org/entity/Q36242875	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	Railmotor no. 1	1906-10-04T00:00:00Z
+410	http://www.wikidata.org/entity/Q36064078	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	Black, Hawthorn & Co. works no. 116	1887-10-26T00:00:00Z
+411	http://www.wikidata.org/entity/Q36060593	http://www.wikidata.org/entity/Q6084088	en	Isle of Wight Central Railway	en	Cowes and Newport Railway 2 “Precursor”	1887-10-26T00:00:00Z
+412	http://www.wikidata.org/entity/Q36086290	http://www.wikidata.org/entity/Q36085519	en	Isle of Wight (Newport Junction) Railway	en	Bury & Co. 2-2-0 “Stuart”	1872-01-01T00:00:00Z
+413	http://www.wikidata.org/entity/Q36086290	http://www.wikidata.org/entity/Q6084150	en	Isle of Wight Railway	en	Bury & Co. 2-2-0 “Stuart”	1867-01-01T00:00:00Z
+414	http://www.wikidata.org/entity/Q30292636	http://www.wikidata.org/entity/Q112136075	en	UNIS Capital	en	UNIS	2012-01-01T00:00:00Z
+415	http://www.wikidata.org/entity/Q29582642	http://www.wikidata.org/entity/Q108723530	en	Greenshark Technology Fund	en	L. S. Investments Limited	2017-01-01T00:00:00Z
+416	http://www.wikidata.org/entity/Q30299820	http://www.wikidata.org/entity/Q116566928		Q116566928	en	Fronter	2015-01-01T00:00:00Z
+417	http://www.wikidata.org/entity/Q34930806	http://www.wikidata.org/entity/Q126456431	en	Ústecké pivovary	en	Pivovar Louny	2009-12-31T00:00:00Z
+418	http://www.wikidata.org/entity/Q28854725	http://www.wikidata.org/entity/Q1979720	en	PPF Group	en	ClearBank	2017-12-31T00:00:00Z
+419	http://www.wikidata.org/entity/Q28854725	http://www.wikidata.org/entity/Q1979720	en	PPF Group	en	ClearBank	2017-12-31T00:00:00Z
+420	http://www.wikidata.org/entity/Q28971511	http://www.wikidata.org/entity/Q98635263	en	PragueInvest	en	Masaryk Station Investment	2011-01-01T00:00:00Z
+421	http://www.wikidata.org/entity/Q28797122	http://www.wikidata.org/entity/Q105967087	en	Takeda Pharmaceuticals International AG		Q28797122	2019-02-15T00:00:00Z
+422	http://www.wikidata.org/entity/Q28971511	http://www.wikidata.org/entity/Q98635252	en	MSPB	en	Masaryk Station Investment	2011-01-01T00:00:00Z
+423	http://www.wikidata.org/entity/Q41567597	http://www.wikidata.org/entity/Q53937849	en	Pražská vodohospodářská společnost	en	Pražské Vodovody a Kanalizace	2018-01-01T00:00:00Z
+424	http://www.wikidata.org/entity/Q47403980	http://www.wikidata.org/entity/Q75203272	en	Entris Equity	en	ACSP Holding Limited	2018-01-01T00:00:00Z
+425	http://www.wikidata.org/entity/Q47403980	http://www.wikidata.org/entity/Q75203272	en	Entris Equity	en	ACSP Holding Limited	2018-01-01T00:00:00Z
+426	http://www.wikidata.org/entity/Q41774065	http://www.wikidata.org/entity/Q84563559	en	TO - Servis	en	Canaria Travel	2018-01-01T00:00:00Z
+427	http://www.wikidata.org/entity/Q47466468	http://www.wikidata.org/entity/Q63174226	en	Rainbow Wisdom Investments Limited	en	CITIC Europe Holdings	2019-04-12T00:00:00Z
+428	http://www.wikidata.org/entity/Q30681965	http://www.wikidata.org/entity/Q9531	en	BBC	en	BritBox	2022-03-31T00:00:00Z
+429	http://www.wikidata.org/entity/Q38276975	http://www.wikidata.org/entity/Q2214105	en	SoftBank Mobile	en	PayPay Securities Corporation	2022-06-30T00:00:00Z
+430	http://www.wikidata.org/entity/Q38276975	http://www.wikidata.org/entity/Q6884799	en	Mizuho Securities	en	PayPay Securities Corporation	2022-06-30T00:00:00Z
+431	http://www.wikidata.org/entity/Q38276975	http://www.wikidata.org/entity/Q86734122	en	LY Corporation	en	PayPay Securities Corporation	2022-06-30T00:00:00Z
+432	http://www.wikidata.org/entity/Q36878922	http://www.wikidata.org/entity/Q77876760	en	BEZ TRANSFORMÁTORY	en	ETD Transformátory	1997-01-01T00:00:00Z
+433	http://www.wikidata.org/entity/Q36878922	http://www.wikidata.org/entity/Q77876760	en	BEZ TRANSFORMÁTORY	en	ETD Transformátory	1997-01-01T00:00:00Z
+434	http://www.wikidata.org/entity/Q36877498	http://www.wikidata.org/entity/Q101251483	en	Sev.en Zeta	en	Teplárna Kladno	2019-01-01T00:00:00Z
+435	http://www.wikidata.org/entity/Q29650125	http://www.wikidata.org/entity/Q4162216	en	Energetický a průmyslový holding	en	BAULIGA	2010-01-01T00:00:00Z
+436	http://www.wikidata.org/entity/Q29650125	http://www.wikidata.org/entity/Q4162216	en	Energetický a průmyslový holding	en	BAULIGA	2010-01-01T00:00:00Z
+437	http://www.wikidata.org/entity/Q29650125	http://www.wikidata.org/entity/Q23072012	en	EP Industries	en	BAULIGA	2012-01-01T00:00:00Z
+438	http://www.wikidata.org/entity/Q29650125	http://www.wikidata.org/entity/Q23072012	en	EP Industries	en	BAULIGA	2012-01-01T00:00:00Z
+439	http://www.wikidata.org/entity/Q36878489	http://www.wikidata.org/entity/Q116664192	en	Bonny Meadow	en	Unicorn	2014-01-01T00:00:00Z
+440	http://www.wikidata.org/entity/Q38276975	http://www.wikidata.org/entity/Q56348149	en	PayPay	en	PayPay Securities Corporation	2023-04-01T00:00:00Z
+441	http://www.wikidata.org/entity/Q38276975	http://www.wikidata.org/entity/Q56348149	en	PayPay	en	PayPay Securities Corporation	2023-04-01T00:00:00Z
+442	http://www.wikidata.org/entity/Q38276975	http://www.wikidata.org/entity/Q2214105	en	SoftBank Mobile	en	PayPay Securities Corporation	2023-04-01T00:00:00Z
+443	http://www.wikidata.org/entity/Q38276975	http://www.wikidata.org/entity/Q6884799	en	Mizuho Securities	en	PayPay Securities Corporation	2023-04-01T00:00:00Z
+444	http://www.wikidata.org/entity/Q38276975	http://www.wikidata.org/entity/Q86734122	en	LY Corporation	en	PayPay Securities Corporation	2023-04-01T00:00:00Z
+445	http://www.wikidata.org/entity/Q39622375	http://www.wikidata.org/entity/Q12719751	en	3TS Capital Partners	en	Zoot	2015-01-01T00:00:00Z
+446	http://www.wikidata.org/entity/Q50300085	http://www.wikidata.org/entity/Q67808613	en	Cleverlance Group	en	Cleverlance Enterprise Solutions	2019-01-01T00:00:00Z
+447	http://www.wikidata.org/entity/Q50300085	http://www.wikidata.org/entity/Q67808613	en	Cleverlance Group	en	Cleverlance Enterprise Solutions	2019-01-01T00:00:00Z
+448	http://www.wikidata.org/entity/Q41567393	http://www.wikidata.org/entity/Q91813960	en	CTY Group	en	Modřany Power	2019-07-31T00:00:00Z
+449	http://www.wikidata.org/entity/Q47088340	http://www.wikidata.org/entity/Q95989661	en	Vesa Equity Investment	en	Fnac Darty	2022-12-31T00:00:00Z
+450	http://www.wikidata.org/entity/Q41567043	http://www.wikidata.org/entity/Q77725636	en	Witkowitz GW	en	Hutní montáže	2017-01-01T00:00:00Z
+451	http://www.wikidata.org/entity/Q41567326	http://www.wikidata.org/entity/Q67806146	en	MICo Group	en	MICo	2020-01-01T00:00:00Z
+452	http://www.wikidata.org/entity/Q41567326	http://www.wikidata.org/entity/Q67806146	en	MICo Group	en	MICo	2020-01-01T00:00:00Z
+453	http://www.wikidata.org/entity/Q51450967	http://www.wikidata.org/entity/Q94794740	en	Small Gref	en	Generali Real Estate Fund CEE	2018-01-01T00:00:00Z
+454	http://www.wikidata.org/entity/Q47089156	http://www.wikidata.org/entity/Q113517201	en	E.ON Energie 38. Beteiligungs	en	EG.D	2020-01-01T00:00:00Z
+455	http://www.wikidata.org/entity/Q41567290	http://www.wikidata.org/entity/Q118512568	en	Agroplast	en	Ligranit (Czechia)	2001-12-05T00:00:00Z
+456	http://www.wikidata.org/entity/Q41567510	http://www.wikidata.org/entity/Q107619359	en	Valbek-EU	en	Valbek	2020-01-01T00:00:00Z
+457	http://www.wikidata.org/entity/Q52350598	http://www.wikidata.org/entity/Q106451969	en	Egil Ulvan Rederi	en	Eidsvaag Junior	2019-01-01T00:00:00Z
+458	http://www.wikidata.org/entity/Q52637781	http://www.wikidata.org/entity/Q3490485	en	Seznam.cz	en	Voice of Prague	2019-01-01T00:00:00Z
+459	http://www.wikidata.org/entity/Q52637781	http://www.wikidata.org/entity/Q3490485	en	Seznam.cz	en	Voice of Prague	2019-01-01T00:00:00Z
+460	http://www.wikidata.org/entity/Q41567595	http://www.wikidata.org/entity/Q108839758	en	SKB Industrieholding	en	PRAKAB Pražská Kabelovna	2010-01-01T00:00:00Z
+461	http://www.wikidata.org/entity/Q52270985	http://www.wikidata.org/entity/Q118954863	en	ITIS Holding	en	CzechToll	2022-01-01T00:00:00Z
+462	http://www.wikidata.org/entity/Q53067090	http://www.wikidata.org/entity/Q106602751	en	Crestyl Brno Properties	en	Brno New Town Square	2017-01-01T00:00:00Z
+463	http://www.wikidata.org/entity/Q52859566	http://www.wikidata.org/entity/Q61727004	en	Cheper invest	en	FVE Czech Novum	2018-01-01T00:00:00Z
+464	http://www.wikidata.org/entity/Q52859566	http://www.wikidata.org/entity/Q61727004	en	Cheper invest	en	FVE Czech Novum	2018-01-01T00:00:00Z
+465	http://www.wikidata.org/entity/Q54279379	http://www.wikidata.org/entity/Q5760723	en	Central Lechera Asturiana		Q54279379	2018-01-01T00:00:00Z
+466	http://www.wikidata.org/entity/Q54957494	http://www.wikidata.org/entity/Q30258774	en	Vinci Energies CZ	en	Electric Components	2018-01-01T00:00:00Z
+467	http://www.wikidata.org/entity/Q54957494	http://www.wikidata.org/entity/Q30258774	en	Vinci Energies CZ	en	Electric Components	2018-01-01T00:00:00Z
+468	http://www.wikidata.org/entity/Q54962193	http://www.wikidata.org/entity/Q67806761	en	Philibert	en	Cimex Invest	2018-01-01T00:00:00Z
+469	http://www.wikidata.org/entity/Q54962193	http://www.wikidata.org/entity/Q67806761	en	Philibert	en	Cimex Invest	2018-01-01T00:00:00Z
+470	http://www.wikidata.org/entity/Q54968136	http://www.wikidata.org/entity/Q818228	en	Benteler International	en	Benteler Automotive Rumburk	2015-01-01T00:00:00Z
+471	http://www.wikidata.org/entity/Q54965993	http://www.wikidata.org/entity/Q107361866	en	Conduco	en	Stezka korunami stromů	2015-01-01T00:00:00Z
+472	http://www.wikidata.org/entity/Q48966427	http://www.wikidata.org/entity/Q219635	en	BlackRock	en	Ruangguru	2019-08-28T00:00:00Z
+473	http://www.wikidata.org/entity/Q54941175	http://www.wikidata.org/entity/Q58206677	en	Nestlé Česko	en	Tivall CZ	2019-01-01T00:00:00Z
+474	http://www.wikidata.org/entity/Q54941175	http://www.wikidata.org/entity/Q58206677	en	Nestlé Česko	en	Tivall CZ	2019-01-01T00:00:00Z
+475	http://www.wikidata.org/entity/Q54935708	http://www.wikidata.org/entity/Q77233657	en	FW Group	en	Fenestra Wieden	2019-01-01T00:00:00Z
+476	http://www.wikidata.org/entity/Q54940497	http://www.wikidata.org/entity/Q101251407	en	C-Energy Group	en	C-Energy Planá	2016-01-01T00:00:00Z
+477	http://www.wikidata.org/entity/Q54942171	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Neogenia	2018-01-01T00:00:00Z
+478	http://www.wikidata.org/entity/Q54942171	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Neogenia	2018-01-01T00:00:00Z
+479	http://www.wikidata.org/entity/Q56084772	http://www.wikidata.org/entity/Q83419367	en	Czech Gas Networks Investments	en	Czech Grid Holding	2019-01-01T00:00:00Z
+480	http://www.wikidata.org/entity/Q54948014	http://www.wikidata.org/entity/Q94328283	en	Soparfin	en	Montblanc Real	2011-01-01T00:00:00Z
+481	http://www.wikidata.org/entity/Q56084784	http://www.wikidata.org/entity/Q56084772	en	Czech Grid Holding	en	GasNet Služby	2012-01-01T00:00:00Z
+482	http://www.wikidata.org/entity/Q56084784	http://www.wikidata.org/entity/Q56084772	en	Czech Grid Holding	en	GasNet Služby	2012-01-01T00:00:00Z
+483	http://www.wikidata.org/entity/Q56084809	http://www.wikidata.org/entity/Q56084772	en	Czech Grid Holding	en	GasNet	2013-01-01T00:00:00Z
+484	http://www.wikidata.org/entity/Q56084809	http://www.wikidata.org/entity/Q56084772	en	Czech Grid Holding	en	GasNet	2013-01-01T00:00:00Z
+485	http://www.wikidata.org/entity/Q43929576	http://www.wikidata.org/entity/Q89031147	en	CEI Ventures	en	CEI Investments	2019-01-01T00:00:00Z
+486	http://www.wikidata.org/entity/Q25245625	http://www.wikidata.org/entity/Q20062801	en	State Power Investment Corporation	en	State Nuclear Power Technology Corporation	2015-05-01T00:00:00Z
+487	http://www.wikidata.org/entity/Q45252891	http://www.wikidata.org/entity/Q64156385	en	EC Investments	en	Mall Group	2017-01-01T00:00:00Z
+488	http://www.wikidata.org/entity/Q45252891	http://www.wikidata.org/entity/Q64156385	en	EC Investments	en	Mall Group	2017-01-01T00:00:00Z
+489	http://www.wikidata.org/entity/Q27974421	http://www.wikidata.org/entity/Q97620182	en	Simply Fair Insurance	en	Pillow pojišťovna	2019-01-01T00:00:00Z
+490	http://www.wikidata.org/entity/Q45252891	http://www.wikidata.org/entity/Q56085836	en	Bonak	en	Mall Group	2017-01-01T00:00:00Z
+491	http://www.wikidata.org/entity/Q45252891	http://www.wikidata.org/entity/Q56085836	en	Bonak	en	Mall Group	2017-01-01T00:00:00Z
+492	http://www.wikidata.org/entity/Q46150352	http://www.wikidata.org/entity/Q66111860	en	GZW Czech	en	DRN	2019-01-01T00:00:00Z
+493	http://www.wikidata.org/entity/Q26221228	http://www.wikidata.org/entity/Q15619234	en	Bignou Gallery	en	Wheat Fields after the Rain	1937-01-01T00:00:00Z
+494	http://www.wikidata.org/entity/Q26215779	http://www.wikidata.org/entity/Q99299646	en	Srovnejto.cz	en	ePojisteni.cz	2018-01-01T00:00:00Z
+495	http://www.wikidata.org/entity/Q28471437	http://www.wikidata.org/entity/Q110729265	en	Allwyn	en	Allwyn International	2021-01-01T00:00:00Z
+496	http://www.wikidata.org/entity/Q45090941	http://www.wikidata.org/entity/Q117744917	en	kari time	en	ChytryHonza.cz	2018-01-01T00:00:00Z
+497	http://www.wikidata.org/entity/Q54981702	http://www.wikidata.org/entity/Q102076789	en	A.B.R. Holding	en	Automotodrom Brno	2019-12-31T00:00:00Z
+498	http://www.wikidata.org/entity/Q55103384	http://www.wikidata.org/entity/Q83867670	en	PaBa Software	en	Avast	2018-12-31T00:00:00Z
+499	http://www.wikidata.org/entity/Q54984269	http://www.wikidata.org/entity/Q123482607	en	AŽU Praha Holding	en	ČKD PRAHA DIZ	2000-12-31T00:00:00Z
+500	http://www.wikidata.org/entity/Q56809981	http://www.wikidata.org/entity/Q56810013	en	ML Green Netherlands	en	Green Gas International	2017-01-01T00:00:00Z
+501	http://www.wikidata.org/entity/Q54982795	http://www.wikidata.org/entity/Q97487549	en	DOB Investment	en	DOB Construction	2020-01-01T00:00:00Z
+502	http://www.wikidata.org/entity/Q54983322	http://www.wikidata.org/entity/Q67803739	en	Adamovské strojírny a železárny	en	Adast Systems	2014-01-01T00:00:00Z
+503	http://www.wikidata.org/entity/Q54983322	http://www.wikidata.org/entity/Q67803739	en	Adamovské strojírny a železárny	en	Adast Systems	2014-01-01T00:00:00Z
+504	http://www.wikidata.org/entity/Q54974273	http://www.wikidata.org/entity/Q108724681	en	Sportisimo holding	en	Sportisimo	2006-01-01T00:00:00Z
+505	http://www.wikidata.org/entity/Q55118010	http://www.wikidata.org/entity/Q116766725	en	Central American Plantations Corporation	en	Guatemala Plantagen-Gesellschaft	1921-01-01T00:00:00Z
+506	http://www.wikidata.org/entity/Q55118008	http://www.wikidata.org/entity/Q116766725	en	Central American Plantations Corporation		Q55118008	1921-01-01T00:00:00Z
+507	http://www.wikidata.org/entity/Q55118020	http://www.wikidata.org/entity/Q116766725	en	Central American Plantations Corporation		Q55118020	1921-01-01T00:00:00Z
+508	http://www.wikidata.org/entity/Q55118015	http://www.wikidata.org/entity/Q116766725	en	Central American Plantations Corporation		Q55118015	1924-01-01T00:00:00Z
+509	http://www.wikidata.org/entity/Q59138603	http://www.wikidata.org/entity/Q10405040	en	Alfabeta	en	Ordfront förlag	2011-01-01T00:00:00Z
+510	http://www.wikidata.org/entity/Q58607477	http://www.wikidata.org/entity/Q98918557	en	MVM Invest	en	PetCenter CZ	2014-01-01T00:00:00Z
+511	http://www.wikidata.org/entity/Q58623419	http://www.wikidata.org/entity/Q59160966	en	Domus	en	RPG Byty	2014-04-11T00:00:00Z
+512	http://www.wikidata.org/entity/Q58547828	http://www.wikidata.org/entity/Q67809099	en	Jet 1, investiční fond	en	PBS Industry	2018-01-01T00:00:00Z
+513	http://www.wikidata.org/entity/Q58547828	http://www.wikidata.org/entity/Q67809099	en	Jet 1, investiční fond	en	PBS Industry	2018-01-01T00:00:00Z
+514	http://www.wikidata.org/entity/Q58623419	http://www.wikidata.org/entity/Q59161324	en	RPG Property	en	RPG Byty	2009-01-01T00:00:00Z
+515	http://www.wikidata.org/entity/Q58623366	http://www.wikidata.org/entity/Q88229081	en	Klement Holding	en	Klement	2017-01-01T00:00:00Z
+516	http://www.wikidata.org/entity/Q58623172	http://www.wikidata.org/entity/Q100438676	en	Enelte Holding	en	NLT	2005-01-01T00:00:00Z
+517	http://www.wikidata.org/entity/Q61053893	http://www.wikidata.org/entity/Q2428939	en	Thorn Electrical Industries	en	EMI, Ltd.	1979-01-01T00:00:00Z
+518	http://www.wikidata.org/entity/Q58197044	http://www.wikidata.org/entity/Q58197346	en	Wood & Paper	en	UNILES	2018-01-01T00:00:00Z
+519	http://www.wikidata.org/entity/Q58197044	http://www.wikidata.org/entity/Q58197346	en	Wood & Paper	en	UNILES	2018-01-01T00:00:00Z
+520	http://www.wikidata.org/entity/Q58172283	http://www.wikidata.org/entity/Q60607397	en	Indoverse (Czech) Coal Investments	en	Elektrárna Chvaletice	2017-12-01T00:00:00Z
+521	http://www.wikidata.org/entity/Q59753377	http://www.wikidata.org/entity/Q77735818	en	Skidor	en	Melida	2019-01-01T00:00:00Z
+522	http://www.wikidata.org/entity/Q58172283	http://www.wikidata.org/entity/Q60607417	en	RXU Czech	en	Elektrárna Chvaletice	2017-11-01T00:00:00Z
+523	http://www.wikidata.org/entity/Q58172283	http://www.wikidata.org/entity/Q60607417	en	RXU Czech	en	Elektrárna Chvaletice	2017-11-01T00:00:00Z
+524	http://www.wikidata.org/entity/Q63085951	http://www.wikidata.org/entity/Q106548715	en	Savarin HoldCo	en	Welwyn Company	2019-01-01T00:00:00Z
+525	http://www.wikidata.org/entity/Q61906433	http://www.wikidata.org/entity/Q10876765	en	China Railway No.2 Engineering Group Co., Ltd.	en	China Railway Erju (Joint-Stock)	1999-01-01T00:00:00Z
+526	http://www.wikidata.org/entity/Q55698148	http://www.wikidata.org/entity/Q10876765	en	China Railway No.2 Engineering Group Co., Ltd.	en	China Railway Hi-tech Industry Corporation	2017-01-01T00:00:00Z
+527	http://www.wikidata.org/entity/Q55768095	http://www.wikidata.org/entity/Q1325291	en	Saxo Bank A/S	en	Saxo Privatbank A/S	2010-10-29T00:00:00Z
+528	http://www.wikidata.org/entity/Q62268825	http://www.wikidata.org/entity/Q62268867	en	FJ Investment	en	Hotel Evropa Praha	2021-01-01T00:00:00Z
+529	http://www.wikidata.org/entity/Q62268825	http://www.wikidata.org/entity/Q62268867	en	FJ Investment	en	Hotel Evropa Praha	2021-01-01T00:00:00Z
+530	http://www.wikidata.org/entity/Q67186195	http://www.wikidata.org/entity/Q20616670	en	Hemmoor Zement AG	en	Portland-Cementfabrik Germania	1936-01-01T00:00:00Z
+531	http://www.wikidata.org/entity/Q67607685	http://www.wikidata.org/entity/Q3818599	en	Vichy Catalan Corporation	en	Les Creus	2016-01-01T00:00:00Z
+532	http://www.wikidata.org/entity/Q67607685	http://www.wikidata.org/entity/Q3818599	en	Vichy Catalan Corporation	en	Les Creus	2016-01-01T00:00:00Z
+533	http://www.wikidata.org/entity/Q67803606	http://www.wikidata.org/entity/Q67806731	en	TTC Holding	en	TTC Teleport	2020-01-01T00:00:00Z
+534	http://www.wikidata.org/entity/Q67803606	http://www.wikidata.org/entity/Q67806731	en	TTC Holding	en	TTC Teleport	2020-01-01T00:00:00Z
+535	http://www.wikidata.org/entity/Q60539943	http://www.wikidata.org/entity/Q106625655	en	Vydavatelství Vesmír	en	Vesmír	2020-01-01T00:00:00Z
+536	http://www.wikidata.org/entity/Q59160966	http://www.wikidata.org/entity/Q59161324	en	RPG Property	en	Domus	2014-01-01T00:00:00Z
+537	http://www.wikidata.org/entity/Q58043425	http://www.wikidata.org/entity/Q58035402	en	Radio Corporation of America	en	WEAF	1926-01-01T00:00:00Z
+538	http://www.wikidata.org/entity/Q60716706	http://www.wikidata.org/entity/Q19724671	en	Radisson Hotel Group	en	Radisson Collection	2014-01-01T00:00:00Z
+539	http://www.wikidata.org/entity/Q60711675	http://www.wikidata.org/entity/Q19724671	en	Radisson Hotel Group	en	Park Inn by Radisson	2000-01-01T00:00:00Z
+540	http://www.wikidata.org/entity/Q55596665	http://www.wikidata.org/entity/Q7637846	en	Summit Partners	en	Doctrine	2023-04-05T00:00:00Z
+541	http://www.wikidata.org/entity/Q57536453	http://www.wikidata.org/entity/Q57536726	en	Lee Hysan Company Limited	en	Hysan Estates Limited	2017-12-31T00:00:00Z
+542	http://www.wikidata.org/entity/Q59586739	http://www.wikidata.org/entity/Q84564522	en	China United Association International Funding Centre	en	China International Group Corporation	2018-12-31T00:00:00Z
+543	http://www.wikidata.org/entity/Q59161436	http://www.wikidata.org/entity/Q59161528	en	BXR Group Limited	en	CERCL Holdings Limited	2014-01-01T00:00:00Z
+544	http://www.wikidata.org/entity/Q59161324	http://www.wikidata.org/entity/Q59161436	en	CERCL Holdings Limited	en	RPG Property	2014-01-01T00:00:00Z
+545	http://www.wikidata.org/entity/Q58408963	http://www.wikidata.org/entity/Q336735	en	ČEZ Group	en	Akenerji Elektrik Üretim	2017-12-31T00:00:00Z
+546	http://www.wikidata.org/entity/Q58408963	http://www.wikidata.org/entity/Q336735	en	ČEZ Group	en	Akenerji Elektrik Üretim	2017-12-31T00:00:00Z
+547	http://www.wikidata.org/entity/Q58206129	http://www.wikidata.org/entity/Q96139806	en	IN GROUP	en	Stavmat Stavebniny	2010-01-01T00:00:00Z
+548	http://www.wikidata.org/entity/Q58206129	http://www.wikidata.org/entity/Q96139806	en	IN GROUP	en	Stavmat Stavebniny	2010-01-01T00:00:00Z
+549	http://www.wikidata.org/entity/Q58241618	http://www.wikidata.org/entity/Q10285692	en	Fratelli Vita	en	Fábrica Fratelli	1920-01-01T00:00:00Z
+550	http://www.wikidata.org/entity/Q58197044	http://www.wikidata.org/entity/Q5374450	en	Agrofert	en	UNILES	2018-01-01T00:00:00Z
+551	http://www.wikidata.org/entity/Q58197044	http://www.wikidata.org/entity/Q5374450	en	Agrofert	en	UNILES	2018-01-01T00:00:00Z
+552	http://www.wikidata.org/entity/Q58218946	http://www.wikidata.org/entity/Q113517201	en	E.ON Energie 38. Beteiligungs	en	E.ON Česká republika	2021-01-01T00:00:00Z
+553	http://www.wikidata.org/entity/Q56452454	http://www.wikidata.org/entity/Q56452500	en	Sulco Proso	en	CEIL (Central Europe Industries)	2016-05-01T00:00:00Z
+554	http://www.wikidata.org/entity/Q56452454	http://www.wikidata.org/entity/Q56452979	en	Maranex Finance	en	CEIL (Central Europe Industries)	2011-01-01T00:00:00Z
+555	http://www.wikidata.org/entity/Q56452454	http://www.wikidata.org/entity/Q56452521	en	Fugio Rap	en	CEIL (Central Europe Industries)	2016-05-01T00:00:00Z
+556	http://www.wikidata.org/entity/Q67805267	http://www.wikidata.org/entity/Q113172982	en	Armex	en	ARMEX HOLDING	2006-01-01T00:00:00Z
+557	http://www.wikidata.org/entity/Q67805670	http://www.wikidata.org/entity/Q104246669	en	CFH Blenheim	en	Churchill Square	2020-01-01T00:00:00Z
+558	http://www.wikidata.org/entity/Q67808613	http://www.wikidata.org/entity/Q50300087	en	Invinit Group	en	Cleverlance Group	2019-01-01T00:00:00Z
+559	http://www.wikidata.org/entity/Q67804277	http://www.wikidata.org/entity/Q110058857	en	VirtualTraining s.r.o.	en	VirtualTraining	2021-08-01T00:00:00Z
+560	http://www.wikidata.org/entity/Q67807652	http://www.wikidata.org/entity/Q36877744	en	Kovofiniš	en	ENVICOMP	2017-01-01T00:00:00Z
+561	http://www.wikidata.org/entity/Q67807652	http://www.wikidata.org/entity/Q36877744	en	Kovofiniš	en	ENVICOMP	2017-01-01T00:00:00Z
+562	http://www.wikidata.org/entity/Q67809553	http://www.wikidata.org/entity/Q16742113	en	Kooperativa pojišťovna	en	AUTODROM SOSNOVÁ u České Lípy	2021-01-01T00:00:00Z
+563	http://www.wikidata.org/entity/Q67809553	http://www.wikidata.org/entity/Q16742113	en	Kooperativa pojišťovna	en	AUTODROM SOSNOVÁ u České Lípy	2021-01-01T00:00:00Z
+564	http://www.wikidata.org/entity/Q67805275	http://www.wikidata.org/entity/Q117744819	en	European Bridge Travel	en	Invia Group	2016-01-01T00:00:00Z
+565	http://www.wikidata.org/entity/Q67806091	http://www.wikidata.org/entity/Q67815278	en	Jet 2, investiční fond	en	Jet 2 Alfa	2020-01-01T00:00:00Z
+566	http://www.wikidata.org/entity/Q67806091	http://www.wikidata.org/entity/Q67815278	en	Jet 2, investiční fond	en	Jet 2 Alfa	2020-01-01T00:00:00Z
+567	http://www.wikidata.org/entity/Q67808613	http://www.wikidata.org/entity/Q90141438	en	Aricoma Group	en	Cleverlance Group	2019-01-01T00:00:00Z
+568	http://www.wikidata.org/entity/Q67806929	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Saunia	2019-01-01T00:00:00Z
+569	http://www.wikidata.org/entity/Q67806929	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Saunia	2019-01-01T00:00:00Z
+570	http://www.wikidata.org/entity/Q67806340	http://www.wikidata.org/entity/Q101251561	en	Natland Energo Holding	en	Energo Příbram	2020-01-01T00:00:00Z
+571	http://www.wikidata.org/entity/Q67808164	http://www.wikidata.org/entity/Q110645166	en	Julius Meinl Living Holdings	en	PPH Nove Mesto	2021-01-01T00:00:00Z
+572	http://www.wikidata.org/entity/Q65924727	http://www.wikidata.org/entity/Q65924733	en	Bohemia Energy Holding	en	MR Communications	2016-05-20T00:00:00Z
+573	http://www.wikidata.org/entity/Q65556150	http://www.wikidata.org/entity/Q116856542	en	Miquelira Limited	en	Main building of Praha-Vyšehrad train station	2022-01-01T00:00:00Z
+574	http://www.wikidata.org/entity/Q64149543	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Cardenas	2016-01-01T00:00:00Z
+575	http://www.wikidata.org/entity/Q64149543	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Cardenas	2016-01-01T00:00:00Z
+576	http://www.wikidata.org/entity/Q70452919	http://www.wikidata.org/entity/Q70453133	en	Miton Numero Uno	en	Miton Teleport	2018-01-01T00:00:00Z
+577	http://www.wikidata.org/entity/Q67810977	http://www.wikidata.org/entity/Q67806237	en	ZLT com	en	Hasičská vzájemná pojišťovna	2018-01-01T00:00:00Z
+578	http://www.wikidata.org/entity/Q67810977	http://www.wikidata.org/entity/Q67806237	en	ZLT com	en	Hasičská vzájemná pojišťovna	2018-01-01T00:00:00Z
+579	http://www.wikidata.org/entity/Q67814108	http://www.wikidata.org/entity/Q10854950	en	Liberty Ostrava	en	Ocelářská unie	2020-06-30T00:00:00Z
+580	http://www.wikidata.org/entity/Q67814108	http://www.wikidata.org/entity/Q10854950	en	Liberty Ostrava	en	Ocelářská unie	2020-06-30T00:00:00Z
+581	http://www.wikidata.org/entity/Q64513847	http://www.wikidata.org/entity/Q53790434	en	Schaeffer Galleries	en	Mary Magdalene	1940-01-01T00:00:00Z
+582	http://www.wikidata.org/entity/Q79794996	http://www.wikidata.org/entity/Q79795352	en	Unicorn Finance	en	Jizera Invest	2019-01-01T00:00:00Z
+583	http://www.wikidata.org/entity/Q68042669	http://www.wikidata.org/entity/Q3818599	en	Vichy Catalan Corporation	en	Font del Regàs	1989-01-01T00:00:00Z
+584	http://www.wikidata.org/entity/Q68042669	http://www.wikidata.org/entity/Q3818599	en	Vichy Catalan Corporation	en	Font del Regàs	1989-01-01T00:00:00Z
+585	http://www.wikidata.org/entity/Q67814135	http://www.wikidata.org/entity/Q67806731	en	TTC Holding	en	TTC TECHKOM CENTRUM	2008-01-01T00:00:00Z
+586	http://www.wikidata.org/entity/Q67814135	http://www.wikidata.org/entity/Q67806731	en	TTC Holding	en	TTC TECHKOM CENTRUM	2008-01-01T00:00:00Z
+587	http://www.wikidata.org/entity/Q80060651	http://www.wikidata.org/entity/Q80063238	en	Praga	en	Praga Export	2020-01-01T00:00:00Z
+588	http://www.wikidata.org/entity/Q88959571	http://www.wikidata.org/entity/Q88959995	en	PPF investiční holding	en	Cespo	2001-12-31T00:00:00Z
+589	http://www.wikidata.org/entity/Q83442299	http://www.wikidata.org/entity/Q52637781	en	Voice of Prague	en	4S Production	2014-01-01T00:00:00Z
+590	http://www.wikidata.org/entity/Q89684563	http://www.wikidata.org/entity/Q7262958	en	Pye Ltd.	en	Polygon Record Co. Ltd.	1955-01-01T00:00:00Z
+591	http://www.wikidata.org/entity/Q83484087	http://www.wikidata.org/entity/Q27150201	en	Schurman Retail Group	en	Carlton Cards Retail	2009-01-01T00:00:00Z
+592	http://www.wikidata.org/entity/Q84564522	http://www.wikidata.org/entity/Q84564704	en	China United Association (HK)	en	China United Association International Funding Centre	2018-12-31T00:00:00Z
+593	http://www.wikidata.org/entity/Q91813946	http://www.wikidata.org/entity/Q91813960	en	CTY Group	en	W13	2019-01-01T00:00:00Z
+594	http://www.wikidata.org/entity/Q84440219	http://www.wikidata.org/entity/Q179200	en	Metro-Goldwyn-Mayer	en	Leo Feist, Inc.	1935-01-01T00:00:00Z
+595	http://www.wikidata.org/entity/Q77937157	http://www.wikidata.org/entity/Q67809099	en	Jet 1, investiční fond	en	MSV Metal Studénka	2015-01-01T00:00:00Z
+596	http://www.wikidata.org/entity/Q77937157	http://www.wikidata.org/entity/Q67809099	en	Jet 1, investiční fond	en	MSV Metal Studénka	2015-01-01T00:00:00Z
+597	http://www.wikidata.org/entity/Q92885228	http://www.wikidata.org/entity/Q700651	en	Viessmann	en	Schmack Biogas	2010-01-01T00:00:00Z
+598	http://www.wikidata.org/entity/Q91436951	http://www.wikidata.org/entity/Q7165267	en	Penton Media	en	iNET Interactive	2015-01-16T00:00:00Z
+599	http://www.wikidata.org/entity/Q82127410	http://www.wikidata.org/entity/Q82130445	en	Tritton Development Fund	en	Bankovní holding	2005-12-15T00:00:00Z
+600	http://www.wikidata.org/entity/Q76385965	http://www.wikidata.org/entity/Q6111519	en	Yhtyneet Paperitehtaat		Q76385965	1943-01-01T00:00:00Z
+601	http://www.wikidata.org/entity/Q81521103	http://www.wikidata.org/entity/Q67811242	en	TTP invest	en	Hartigovský palác	2014-01-01T00:00:00Z
+602	http://www.wikidata.org/entity/Q81521103	http://www.wikidata.org/entity/Q67811242	en	TTP invest	en	Hartigovský palác	2014-01-01T00:00:00Z
+603	http://www.wikidata.org/entity/Q66481131	http://www.wikidata.org/entity/Q300704	en	Aachen Münchener	en	Hamburg-Bremer Rückversicherungs-AG	1935-01-01T00:00:00Z
+604	http://www.wikidata.org/entity/Q66331867	http://www.wikidata.org/entity/Q300704	en	Aachen Münchener	en	Hamburg-Bremer Feuer-Versicherungs-Gesellschaft	1935-01-01T00:00:00Z
+605	http://www.wikidata.org/entity/Q67809959	http://www.wikidata.org/entity/Q88229682	en	Naharis Group	en	FVE Triangle	2018-01-01T00:00:00Z
+606	http://www.wikidata.org/entity/Q79099536	http://www.wikidata.org/entity/Q871141	en	Deutsche Werkstätten Hellerau	en	Deutsche Werkstätten Hellerau, old factory	1909-01-01T00:00:00Z
+607	http://www.wikidata.org/entity/Q78662681	http://www.wikidata.org/entity/Q56555805	en	Sidney Janis Gallery	en	Composition of Red and White: Nom 1/Composition No....	1951-01-01T00:00:00Z
+608	http://www.wikidata.org/entity/Q67810837	http://www.wikidata.org/entity/Q117734411	en	HOPI Foods	en	Hollandia Karlovy Vary	2012-01-01T00:00:00Z
+609	http://www.wikidata.org/entity/Q67810658	http://www.wikidata.org/entity/Q123145604	en	Mist	en	Vistoria CZ	2008-01-01T00:00:00Z
+610	http://www.wikidata.org/entity/Q67811534	http://www.wikidata.org/entity/Q104245554	en	EP Corporate Group	en	EP Real Estate	2023-01-01T00:00:00Z
+611	http://www.wikidata.org/entity/Q85867827	http://www.wikidata.org/entity/Q118466027		Q118466027	en	TRENDE	2022-03-31T00:00:00Z
+612	http://www.wikidata.org/entity/Q96177610	http://www.wikidata.org/entity/Q54958229	en	Dr. Müller Pharma	en	Ty & Já	2019-01-01T00:00:00Z
+613	http://www.wikidata.org/entity/Q96177610	http://www.wikidata.org/entity/Q54958229	en	Dr. Müller Pharma	en	Ty & Já	2019-01-01T00:00:00Z
+614	http://www.wikidata.org/entity/Q98635263	http://www.wikidata.org/entity/Q98635968	en	Sudop Invest	en	PragueInvest	2018-01-01T00:00:00Z
+615	http://www.wikidata.org/entity/Q97293707	http://www.wikidata.org/entity/Q97296991	en	IGIS European Holding	en	Praga Studios	2019-01-01T00:00:00Z
+616	http://www.wikidata.org/entity/Q98635263	http://www.wikidata.org/entity/Q98635941	en	Sudop Real	en	PragueInvest	2020-01-01T00:00:00Z
+617	http://www.wikidata.org/entity/Q95995081	http://www.wikidata.org/entity/Q41567946	en	synlab czech	en	Chambon	2011-01-01T00:00:00Z
+618	http://www.wikidata.org/entity/Q95995081	http://www.wikidata.org/entity/Q41567946	en	synlab czech	en	Chambon	2011-01-01T00:00:00Z
+619	http://www.wikidata.org/entity/Q95722957	http://www.wikidata.org/entity/Q103843018	en	Heimstaden Bostad Invest 12	en	Heimstaden Bostad Invest	2019-01-01T00:00:00Z
+620	http://www.wikidata.org/entity/Q97487574	http://www.wikidata.org/entity/Q97487584	en	Geosan Investiční	en	Geosan Group	2015-01-01T00:00:00Z
+621	http://www.wikidata.org/entity/Q95477088	http://www.wikidata.org/entity/Q95464773		Q95464773		Q95477088	1982-01-01T00:00:00Z
+622	http://www.wikidata.org/entity/Q98669408	http://www.wikidata.org/entity/Q98669411	en	SCI Lighthouse Towers	en	SCI Lighthouse Towers	2020-01-01T00:00:00Z
+623	http://www.wikidata.org/entity/Q95989661	http://www.wikidata.org/entity/Q107490482	en	EP Equity Investment	en	Vesa Equity Investment	2021-01-01T00:00:00Z
+624	http://www.wikidata.org/entity/Q58510098	http://www.wikidata.org/entity/Q88959995	en	PPF investiční holding	en	Lázně Teplice v Čechách a.s.	2001-12-31T00:00:00Z
+625	http://www.wikidata.org/entity/Q48816378	http://www.wikidata.org/entity/Q55464287	en	HNA Technology Group Co., Ltd.	en	HNA Technology Co., Ltd.	2017-12-31T00:00:00Z
+626	http://www.wikidata.org/entity/Q63326525	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Favi online	2019-01-01T00:00:00Z
+627	http://www.wikidata.org/entity/Q63326525	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Favi online	2019-01-01T00:00:00Z
+628	http://www.wikidata.org/entity/Q63174226	http://www.wikidata.org/entity/Q105441796	en	Hengxin Enterprises	en	Rainbow Wisdom Investments Limited	2019-01-01T00:00:00Z
+629	http://www.wikidata.org/entity/Q58547828	http://www.wikidata.org/entity/Q67809099	en	Jet 1, investiční fond	en	PBS Industry	2015-01-01T00:00:00Z
+630	http://www.wikidata.org/entity/Q58547828	http://www.wikidata.org/entity/Q67809099	en	Jet 1, investiční fond	en	PBS Industry	2015-01-01T00:00:00Z
+631	http://www.wikidata.org/entity/Q61947642	http://www.wikidata.org/entity/Q106451969	en	Egil Ulvan Rederi	en	Kristian With	2011-01-01T00:00:00Z
+632	http://www.wikidata.org/entity/Q58510575	http://www.wikidata.org/entity/Q110643889	en	Merkur - Sun	en	Merkur Casino	2004-01-01T00:00:00Z
+633	http://www.wikidata.org/entity/Q58489485	http://www.wikidata.org/entity/Q77747794	en	SPV GWX	en	Gearworks	2018-01-01T00:00:00Z
+634	http://www.wikidata.org/entity/Q58489485	http://www.wikidata.org/entity/Q30297576	en	Optifin Invest	en	Gearworks	2018-01-01T00:00:00Z
+635	http://www.wikidata.org/entity/Q58489485	http://www.wikidata.org/entity/Q30297576	en	Optifin Invest	en	Gearworks	2018-01-01T00:00:00Z
+636	http://www.wikidata.org/entity/Q58520560	http://www.wikidata.org/entity/Q36878383	en	Veolia Česká republika	en	Česká voda - Czech Water, a.s.	2007-01-01T00:00:00Z
+637	http://www.wikidata.org/entity/Q58520560	http://www.wikidata.org/entity/Q36878383	en	Veolia Česká republika	en	Česká voda - Czech Water, a.s.	2007-01-01T00:00:00Z
+638	http://www.wikidata.org/entity/Q58490637	http://www.wikidata.org/entity/Q117812914	en	Hollandsche IRS B.V.	en	ČKD Kutná Hora	2019-08-08T00:00:00Z
+639	http://www.wikidata.org/entity/Q58490637	http://www.wikidata.org/entity/Q117812998	en	INTEGRATED RAIL-CASTING COMPANY LIMITED	en	ČKD Kutná Hora	2012-12-21T00:00:00Z
+640	http://www.wikidata.org/entity/Q43305370	http://www.wikidata.org/entity/Q49125	en	Toshiba	en	TVS REGZA	2018-01-01T00:00:00Z
+641	http://www.wikidata.org/entity/Q43305370	http://www.wikidata.org/entity/Q49125	en	Toshiba	en	TVS REGZA	2018-01-01T00:00:00Z
+642	http://www.wikidata.org/entity/Q58502968	http://www.wikidata.org/entity/Q58604233	en	Privamed	en	Privamed Healthia	2005-09-07T00:00:00Z
+643	http://www.wikidata.org/entity/Q77876788	http://www.wikidata.org/entity/Q121683018	en	Ibertax	en	SkyToll	2013-01-01T00:00:00Z
+644	http://www.wikidata.org/entity/Q43305370	http://www.wikidata.org/entity/Q118132159	en	Hisense Visual Technology	en	TVS REGZA	2018-01-01T00:00:00Z
+645	http://www.wikidata.org/entity/Q86734122	http://www.wikidata.org/entity/Q109359747	en	A Holdings Corporation	en	LY Corporation	2022-09-30T00:00:00Z
+646	http://www.wikidata.org/entity/Q86726664	http://www.wikidata.org/entity/Q971946	en	KDDI	en	UQ mobile	2020-10-01T00:00:00Z
+647	http://www.wikidata.org/entity/Q86726664	http://www.wikidata.org/entity/Q971946	en	KDDI	en	UQ mobile	2020-10-01T00:00:00Z
+648	http://www.wikidata.org/entity/Q98930883	http://www.wikidata.org/entity/Q98930805	en	Etagra Group	en	Agropol Group	2008-01-01T00:00:00Z
+649	http://www.wikidata.org/entity/Q98930781	http://www.wikidata.org/entity/Q98930805	en	Etagra Group	en	Etagra	2009-01-01T00:00:00Z
+650	http://www.wikidata.org/entity/Q99299842	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Extra Online Media	2016-01-01T00:00:00Z
+651	http://www.wikidata.org/entity/Q99299842	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Extra Online Media	2016-01-01T00:00:00Z
+652	http://www.wikidata.org/entity/Q98918686	http://www.wikidata.org/entity/Q41367525	en	Supernius	en	Supernius Vet	2018-01-01T00:00:00Z
+653	http://www.wikidata.org/entity/Q98918686	http://www.wikidata.org/entity/Q41367525	en	Supernius	en	Supernius Vet	2018-01-01T00:00:00Z
+654	http://www.wikidata.org/entity/Q98930883	http://www.wikidata.org/entity/Q5374450	en	Agrofert	en	Agropol Group	2009-01-01T00:00:00Z
+655	http://www.wikidata.org/entity/Q98930883	http://www.wikidata.org/entity/Q5374450	en	Agrofert	en	Agropol Group	2009-01-01T00:00:00Z
+656	http://www.wikidata.org/entity/Q99299646	http://www.wikidata.org/entity/Q99299740	en	Bauer Ausland 2	en	Srovnejto.cz	2019-01-01T00:00:00Z
+657	http://www.wikidata.org/entity/Q88008816	http://www.wikidata.org/entity/Q106602961	en	Crecol Limited	en	Cali Global Investments	2020-01-01T00:00:00Z
+658	http://www.wikidata.org/entity/Q98918658	http://www.wikidata.org/entity/Q98918686	en	Supernius Vet	en	Supernius Pet	2019-01-01T00:00:00Z
+659	http://www.wikidata.org/entity/Q98918557	http://www.wikidata.org/entity/Q98918658	en	Supernius Pet	en	MVM Invest	2019-01-01T00:00:00Z
+660	http://www.wikidata.org/entity/Q88381113	http://www.wikidata.org/entity/Q116895364	en	Košík Holding	en	Košík.cz	2023-01-01T00:00:00Z
+661	http://www.wikidata.org/entity/Q103716339	http://www.wikidata.org/entity/Q102388493	en	Brno Investment Group	en	Partners InIn	2022-12-31T00:00:00Z
+662	http://www.wikidata.org/entity/Q102388541	http://www.wikidata.org/entity/Q102388493	en	Brno Investment Group	en	EDEN Partners	2022-12-31T00:00:00Z
+663	http://www.wikidata.org/entity/Q103716339	http://www.wikidata.org/entity/Q102388391	en	Apana	en	Partners InIn	2022-12-31T00:00:00Z
+664	http://www.wikidata.org/entity/Q102416281	http://www.wikidata.org/entity/Q95989661	en	Vesa Equity Investment	en	RUBY Equity Investment S.á r.l.	2022-12-31T00:00:00Z
+665	http://www.wikidata.org/entity/Q97616455	http://www.wikidata.org/entity/Q97616519	en	Miton Clowns	en	Qerko	2020-01-01T00:00:00Z
+666	http://www.wikidata.org/entity/Q98777533	http://www.wikidata.org/entity/Q98779059	en	Pro Cycling Holding	en	Decolef Lux	2013-01-01T00:00:00Z
+667	http://www.wikidata.org/entity/Q96135562	http://www.wikidata.org/entity/Q107975081	en	CM - Credit	en	Fortischem	2021-01-01T00:00:00Z
+668	http://www.wikidata.org/entity/Q104185442	http://www.wikidata.org/entity/Q59490261	en	Transdev Česká republika	en	Transdev Střední Čechy	2019-01-01T00:00:00Z
+669	http://www.wikidata.org/entity/Q104185442	http://www.wikidata.org/entity/Q59490261	en	Transdev Česká republika	en	Transdev Střední Čechy	2019-01-01T00:00:00Z
+670	http://www.wikidata.org/entity/Q94641709	http://www.wikidata.org/entity/Q94641808	en	Calais	en	Auriga CZ	2020-01-01T00:00:00Z
+671	http://www.wikidata.org/entity/Q94641808	http://www.wikidata.org/entity/Q94641828	en	Masterconsult	en	Calais	2012-01-01T00:00:00Z
+672	http://www.wikidata.org/entity/Q104215428	http://www.wikidata.org/entity/Q2083851	en	Pfister Arco Holding	en	Pfister	1991-01-01T00:00:00Z
+673	http://www.wikidata.org/entity/Q86244688	http://www.wikidata.org/entity/Q116451564		Q116451564		Q86244688	2020-01-01T00:00:00Z
+674	http://www.wikidata.org/entity/Q102388493	http://www.wikidata.org/entity/Q121748654	en	BIG Private Holding	en	Brno Investment Group	2022-01-01T00:00:00Z
+675	http://www.wikidata.org/entity/Q102388391	http://www.wikidata.org/entity/Q121748955	en	Element Private Holding	en	Apana	2022-01-01T00:00:00Z
+676	http://www.wikidata.org/entity/Q104971879	http://www.wikidata.org/entity/Q104976282	en	Kunsthandel Franz Resch, Gauting	en	Marzipan Gateau from Königsberg	1950-01-01T00:00:00Z
+677	http://www.wikidata.org/entity/Q107212148	http://www.wikidata.org/entity/Q107212154	en	Pankrac Holding	en	PANSIB	2019-01-01T00:00:00Z
+678	http://www.wikidata.org/entity/Q107211142	http://www.wikidata.org/entity/Q75203181	en	Gramexo Plc	en	Rustonka Development II	2016-01-01T00:00:00Z
+679	http://www.wikidata.org/entity/Q107211142	http://www.wikidata.org/entity/Q75203181	en	Gramexo Plc	en	Rustonka Development II	2016-01-01T00:00:00Z
+680	http://www.wikidata.org/entity/Q107026926	http://www.wikidata.org/entity/Q113633213	en	Patrizier Bräu	en	Grüner-Bräu	1972-01-01T00:00:00Z
+681	http://www.wikidata.org/entity/Q107235734	http://www.wikidata.org/entity/Q71069640	en	Immofinanz Services Czech Republic	en	NP Investments	2020-01-01T00:00:00Z
+682	http://www.wikidata.org/entity/Q101435148	http://www.wikidata.org/entity/Q300704	en	Aachen Münchener	en	Schlesische Feuerversicherungs-Gesellschaft	1935-01-01T00:00:00Z
+683	http://www.wikidata.org/entity/Q108724681	http://www.wikidata.org/entity/Q108724809	en	Liferoad	en	Sportisimo holding	2020-01-01T00:00:00Z
+684	http://www.wikidata.org/entity/Q108801918	http://www.wikidata.org/entity/Q108801864	en	Boyne Holding	en	SCP Bigaud	2009-01-01T00:00:00Z
+685	http://www.wikidata.org/entity/Q108980710	http://www.wikidata.org/entity/Q54964095	en	Bohemia Energy entity	en	Turpin Holding	2020-05-07T00:00:00Z
+686	http://www.wikidata.org/entity/Q108980710	http://www.wikidata.org/entity/Q54964095	en	Bohemia Energy entity	en	Turpin Holding	2020-05-07T00:00:00Z
+687	http://www.wikidata.org/entity/Q106548715	http://www.wikidata.org/entity/Q106548902	en	Savarin	en	Savarin HoldCo	2021-01-01T00:00:00Z
+688	http://www.wikidata.org/entity/Q106595818	http://www.wikidata.org/entity/Q106595839	en	Salori Holding	en	Letiště Vodochody	2015-01-01T00:00:00Z
+689	http://www.wikidata.org/entity/Q108944410	http://www.wikidata.org/entity/Q108944542	en	Resistant Al	en	Resistant AI	2020-01-01T00:00:00Z
+690	http://www.wikidata.org/entity/Q108799764	http://www.wikidata.org/entity/Q102265205	en	MONVIA Holding	en	Monzas	2020-01-01T00:00:00Z
+691	http://www.wikidata.org/entity/Q108799764	http://www.wikidata.org/entity/Q102265205	en	MONVIA Holding	en	Monzas	2020-01-01T00:00:00Z
+692	http://www.wikidata.org/entity/Q109236356	http://www.wikidata.org/entity/Q4744959	en	American Seafoods	en	Bayside Canadian Railway	2012-01-01T00:00:00Z
+693	http://www.wikidata.org/entity/Q109236356	http://www.wikidata.org/entity/Q4744959	en	American Seafoods	en	Bayside Canadian Railway	2012-01-01T00:00:00Z
+694	http://www.wikidata.org/entity/Q109315550	http://www.wikidata.org/entity/Q3117389	en	EBRA Group	en	Humanoid	2022-03-18T00:00:00Z
+695	http://www.wikidata.org/entity/Q106686856	http://www.wikidata.org/entity/Q300704	en	Aachen Münchener	en	Aachener Rückversicherungs-Gesellschaft	1935-01-01T00:00:00Z
+696	http://www.wikidata.org/entity/Q111722095	http://www.wikidata.org/entity/Q5214909	en	Tokio Marine Nichido	en	Tokio Marine Newa	2023-04-01T00:00:00Z
+697	http://www.wikidata.org/entity/Q109934773	http://www.wikidata.org/entity/Q109934788	en	Gaudí Group	en	Rezidence Eliška	2021-01-01T00:00:00Z
+698	http://www.wikidata.org/entity/Q109341187	http://www.wikidata.org/entity/Q1656230	en	Phillips 66	en	Conoco	2012-05-01T00:00:00Z
+699	http://www.wikidata.org/entity/Q109341187	http://www.wikidata.org/entity/Q1656230	en	Phillips 66	en	Conoco	2012-05-01T00:00:00Z
+700	http://www.wikidata.org/entity/Q110220125	http://www.wikidata.org/entity/Q787239	en	Platinum Equity	en	Aventiv Technologies	2017-11-01T00:00:00Z
+701	http://www.wikidata.org/entity/Q110220125	http://www.wikidata.org/entity/Q787239	en	Platinum Equity	en	Aventiv Technologies	2017-11-01T00:00:00Z
+702	http://www.wikidata.org/entity/Q110307887	http://www.wikidata.org/entity/Q110307892	en	Real-Treuhand Reality	en	Luce International	2021-01-01T00:00:00Z
+703	http://www.wikidata.org/entity/Q109934225	http://www.wikidata.org/entity/Q67804244	en	AZ SERVIS	en	AZ Tower	2020-01-01T00:00:00Z
+704	http://www.wikidata.org/entity/Q109934225	http://www.wikidata.org/entity/Q67804244	en	AZ SERVIS	en	AZ Tower	2020-01-01T00:00:00Z
+705	http://www.wikidata.org/entity/Q110307892	http://www.wikidata.org/entity/Q110307909	en	Real - Treuhand Management	en	Real-Treuhand Reality	2015-01-01T00:00:00Z
+706	http://www.wikidata.org/entity/Q107518309	http://www.wikidata.org/entity/Q107543079	en	Keen Group	en	GoodAI Applied	2018-01-01T00:00:00Z
+707	http://www.wikidata.org/entity/Q110251564	http://www.wikidata.org/entity/Q110251567	en	FOO	en	Pod Radnicí 1210	2021-01-01T00:00:00Z
+708	http://www.wikidata.org/entity/Q109357343	http://www.wikidata.org/entity/Q56348149	en	PayPay	en	PayPal credit card	2022-10-01T00:00:00Z
+709	http://www.wikidata.org/entity/Q109357343	http://www.wikidata.org/entity/Q56348149	en	PayPay	en	PayPal credit card	2022-10-01T00:00:00Z
+710	http://www.wikidata.org/entity/Q106019609	http://www.wikidata.org/entity/Q106019597	en	Leaf Mobile	en	East Side Games	2021-02-05T00:00:00Z
+711	http://www.wikidata.org/entity/Q101084958	http://www.wikidata.org/entity/Q1359692	en	Tishman Speyer	en	1270 Avenue of the Americas	2001-01-01T00:00:00Z
+712	http://www.wikidata.org/entity/Q101084958	http://www.wikidata.org/entity/Q1359692	en	Tishman Speyer	en	1270 Avenue of the Americas	2001-01-01T00:00:00Z
+713	http://www.wikidata.org/entity/Q105543777	http://www.wikidata.org/entity/Q113000924	en	SC Czech ADX	en	Charles Square Center	2022-01-01T00:00:00Z
+714	http://www.wikidata.org/entity/Q110321533	http://www.wikidata.org/entity/Q110321559	en	CE Electronics Holding	en	FAST ČR	2021-01-01T00:00:00Z
+715	http://www.wikidata.org/entity/Q110321559	http://www.wikidata.org/entity/Q64156385	en	EC Investments	en	CE Electronics Holding	2021-01-01T00:00:00Z
+716	http://www.wikidata.org/entity/Q110321559	http://www.wikidata.org/entity/Q64156385	en	EC Investments	en	CE Electronics Holding	2021-01-01T00:00:00Z
+717	http://www.wikidata.org/entity/Q110321559	http://www.wikidata.org/entity/Q110321567	en	Slowlee	en	CE Electronics Holding	2021-01-01T00:00:00Z
+718	http://www.wikidata.org/entity/Q110321559	http://www.wikidata.org/entity/Q56085836	en	Bonak	en	CE Electronics Holding	2021-01-01T00:00:00Z
+719	http://www.wikidata.org/entity/Q110321559	http://www.wikidata.org/entity/Q56085836	en	Bonak	en	CE Electronics Holding	2021-01-01T00:00:00Z
+720	http://www.wikidata.org/entity/Q107619359	http://www.wikidata.org/entity/Q107619786	en	Inwis	en	Valbek-EU	2016-01-01T00:00:00Z
+721	http://www.wikidata.org/entity/Q112200520	http://www.wikidata.org/entity/Q41774065	en	Canaria Travel	en	Prague City Air	2022-01-01T00:00:00Z
+722	http://www.wikidata.org/entity/Q112200520	http://www.wikidata.org/entity/Q41774065	en	Canaria Travel	en	Prague City Air	2022-01-01T00:00:00Z
+723	http://www.wikidata.org/entity/Q112155997	http://www.wikidata.org/entity/Q56466264	en	OMPO Holding	en	Aircraft International	2022-01-01T00:00:00Z
+724	http://www.wikidata.org/entity/Q112155997	http://www.wikidata.org/entity/Q56466264	en	OMPO Holding	en	Aircraft International	2022-01-01T00:00:00Z
+725	http://www.wikidata.org/entity/Q109408151	http://www.wikidata.org/entity/Q17085620	en	Planet Labs	en	Sinergise	2023-08-01T00:00:00Z
+726	http://www.wikidata.org/entity/Q109364749	http://www.wikidata.org/entity/Q102045943	en	Z Financial Corporation	en	LINE Credit	2023-01-01T00:00:00Z
+727	http://www.wikidata.org/entity/Q108052124	http://www.wikidata.org/entity/Q108052276	en	IFM GROUP	en	PZ PROJEKT	2019-02-12T00:00:00Z
+728	http://www.wikidata.org/entity/Q113000963	http://www.wikidata.org/entity/Q66111965	en	Stadt Morgen Holding	en	DRN	2019-01-01T00:00:00Z
+729	http://www.wikidata.org/entity/Q113000924	http://www.wikidata.org/entity/Q66111965	en	Stadt Morgen Holding	en	SC Czech ADX	2022-01-01T00:00:00Z
+730	http://www.wikidata.org/entity/Q113732519	http://www.wikidata.org/entity/Q113732541	en	Miton Farmers	en	Miton Arts	2022-01-01T00:00:00Z
+731	http://www.wikidata.org/entity/Q114082441	http://www.wikidata.org/entity/Q114082480	en	Coda Innovations	en	Coda Development	2015-01-01T00:00:00Z
+732	http://www.wikidata.org/entity/Q114295668	http://www.wikidata.org/entity/Q114296075	en	Mediaholding CS	en	Reflex	1992-01-01T00:00:00Z
+733	http://www.wikidata.org/entity/Q112961527	http://www.wikidata.org/entity/Q112961832	en	International Finance Group Limited	en	International Investment Hotels Holding	2012-01-01T00:00:00Z
+734	http://www.wikidata.org/entity/Q114318857	http://www.wikidata.org/entity/Q114318904	en	RSBC JV Brumlovka	en	RSBC Kvarta	2022-01-01T00:00:00Z
+735	http://www.wikidata.org/entity/Q112895935	http://www.wikidata.org/entity/Q36878383	en	Veolia Česká republika	en	PT Transit	2020-01-01T00:00:00Z
+736	http://www.wikidata.org/entity/Q112895935	http://www.wikidata.org/entity/Q36878383	en	Veolia Česká republika	en	PT Transit	2020-01-01T00:00:00Z
+737	http://www.wikidata.org/entity/Q112614303	http://www.wikidata.org/entity/Q112614335	en	Alviks Investments	en	Concorde ventures	2017-01-01T00:00:00Z
+738	http://www.wikidata.org/entity/Q113633184	http://www.wikidata.org/entity/Q113633213	en	Patrizier Bräu	en	Brewery Humbser-Geismann Fürth	1972-01-01T00:00:00Z
+739	http://www.wikidata.org/entity/Q102263725	http://www.wikidata.org/entity/Q102388493	en	Brno Investment Group	en	Partners BankIn	2022-12-31T00:00:00Z
+740	http://www.wikidata.org/entity/Q104882459	http://www.wikidata.org/entity/Q66269180	en	GES Media Asset	en	Radio United Group	2012-01-01T00:00:00Z
+741	http://www.wikidata.org/entity/Q108053094	http://www.wikidata.org/entity/Q108052276	en	IFM GROUP	en	PORTA BRNO plus	2018-11-20T00:00:00Z
+742	http://www.wikidata.org/entity/Q110715277	http://www.wikidata.org/entity/Q110715294	en	Areal ETX	en	Vyšehradská 20	2016-01-01T00:00:00Z
+743	http://www.wikidata.org/entity/Q104901475	http://www.wikidata.org/entity/Q849887	en	TV Guide	en	TV Guide Magazine	1953-01-01T00:00:00Z
+744	http://www.wikidata.org/entity/Q106702838	http://www.wikidata.org/entity/Q106702567	en	Ducale S.p.A.	en	Arion S.A.	1985-01-01T00:00:00Z
+745	http://www.wikidata.org/entity/Q99769364	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Agdata	2020-01-01T00:00:00Z
+746	http://www.wikidata.org/entity/Q99769364	http://www.wikidata.org/entity/Q99299766	en	Pale Fire Capital	en	Agdata	2020-01-01T00:00:00Z
+747	http://www.wikidata.org/entity/Q104882358	http://www.wikidata.org/entity/Q104882459	en	Radio United Group	en	Radio United Broadcasting	2015-01-01T00:00:00Z
+748	http://www.wikidata.org/entity/Q104880770	http://www.wikidata.org/entity/Q5374450	en	Agrofert	en	Londa	2014-01-01T00:00:00Z
+749	http://www.wikidata.org/entity/Q104880770	http://www.wikidata.org/entity/Q5374450	en	Agrofert	en	Londa	2014-01-01T00:00:00Z
+750	http://www.wikidata.org/entity/Q110716465	http://www.wikidata.org/entity/Q106750793	en	Shell Transport and Trading Company	en	Shell	http://www.wikidata.org/.well-known/genid/73ae968aec53a2ed27406283c11fe2bd
+751	http://www.wikidata.org/entity/Q99769364	http://www.wikidata.org/entity/Q99769550	en	GA Investiční AG	en	Agdata	2020-01-01T00:00:00Z
+752	http://www.wikidata.org/entity/Q99670661	http://www.wikidata.org/entity/Q3490485	en	Seznam.cz	en	Seznam.cz investiční	2014-01-01T00:00:00Z
+753	http://www.wikidata.org/entity/Q99670661	http://www.wikidata.org/entity/Q3490485	en	Seznam.cz	en	Seznam.cz investiční	2014-01-01T00:00:00Z
+754	http://www.wikidata.org/entity/Q99670681	http://www.wikidata.org/entity/Q69503098	en	Startup Yard	en	StartupYard 2014	2014-01-01T00:00:00Z
+755	http://www.wikidata.org/entity/Q107400499	http://www.wikidata.org/entity/Q106367983	en	CelerSMS	en	The CelerSMS Journal	2021-05-30T00:00:00Z
+756	http://www.wikidata.org/entity/Q110643889	http://www.wikidata.org/entity/Q110686071	en	Spielothek Česká republika	en	Merkur - Sun	2002-01-01T00:00:00Z
+757	http://www.wikidata.org/entity/Q117706579	http://www.wikidata.org/entity/Q117706591	en	Plus4U	en	Mammoth	2006-01-01T00:00:00Z
+758	http://www.wikidata.org/entity/Q117706591	http://www.wikidata.org/entity/Q116664192	en	Bonny Meadow	en	Plus4U	2014-01-01T00:00:00Z
+759	http://www.wikidata.org/entity/Q117744839	http://www.wikidata.org/entity/Q117744849	en	Rockaway Travel	en	Blue Lantern	2018-01-01T00:00:00Z
+760	http://www.wikidata.org/entity/Q117744917	http://www.wikidata.org/entity/Q117744960	en	DRFG Finance	en	kari time	2020-01-01T00:00:00Z
+761	http://www.wikidata.org/entity/Q117837136	http://www.wikidata.org/entity/Q1557223	en	Lawson	en	L･TF	2018-02-28T00:00:00Z
+762	http://www.wikidata.org/entity/Q110775321	http://www.wikidata.org/entity/Q67815598	en	NP Finance	en	BTCZ Ventures	2019-02-26T00:00:00Z
+763	http://www.wikidata.org/entity/Q110775321	http://www.wikidata.org/entity/Q67815598	en	NP Finance	en	BTCZ Ventures	2019-02-26T00:00:00Z
+764	http://www.wikidata.org/entity/Q110874738	http://www.wikidata.org/entity/Q10503565	en	Gehrmans Musikförlag		Q110874738	2022-02-01T00:00:00Z
+765	http://www.wikidata.org/entity/Q110874738	http://www.wikidata.org/entity/Q10503565	en	Gehrmans Musikförlag		Q110874738	2022-02-01T00:00:00Z
+766	http://www.wikidata.org/entity/Q110775321	http://www.wikidata.org/entity/Q67804330	en	B3 Holding	en	BTCZ Ventures	2019-02-26T00:00:00Z
+767	http://www.wikidata.org/entity/Q110775321	http://www.wikidata.org/entity/Q67804330	en	B3 Holding	en	BTCZ Ventures	2019-02-26T00:00:00Z
+768	http://www.wikidata.org/entity/Q110775321	http://www.wikidata.org/entity/Q67815600	en	Cheval Finance	en	BTCZ Ventures	2019-02-26T00:00:00Z
+769	http://www.wikidata.org/entity/Q110775321	http://www.wikidata.org/entity/Q67815600	en	Cheval Finance	en	BTCZ Ventures	2019-02-26T00:00:00Z
+770	http://www.wikidata.org/entity/Q108339659	http://www.wikidata.org/entity/Q108339822		Q108339822		Q108339659	2014-01-01T00:00:00Z
+771	http://www.wikidata.org/entity/Q110731042	http://www.wikidata.org/entity/Q110731211	en	Al Sirona (Luxembourg) Acquisition	en	Zentiva Group	2018-01-01T00:00:00Z
+772	http://www.wikidata.org/entity/Q109594319	http://www.wikidata.org/entity/Q102045943	en	Z Financial Corporation		Q109594319	2023-01-01T00:00:00Z
+773	http://www.wikidata.org/entity/Q109748815	http://www.wikidata.org/entity/Q109748397	en	Mavex Group	en	Bitmedia	2009-11-01T00:00:00Z
+774	http://www.wikidata.org/entity/Q109747743	http://www.wikidata.org/entity/Q109747912	en	Sunnystar Holding	en	PH-Real	2019-06-28T00:00:00Z
+775	http://www.wikidata.org/entity/Q116172580	http://www.wikidata.org/entity/Q104245554	en	EP Corporate Group	en	EP HoldCo	2021-01-01T00:00:00Z
+776	http://www.wikidata.org/entity/Q116053726	http://www.wikidata.org/entity/Q116053742	en	Taedifer	en	Škoda	2023-01-01T00:00:00Z
+777	http://www.wikidata.org/entity/Q109748096	http://www.wikidata.org/entity/Q109748206	en	Golf Resort Limited	en	Golf Resort Barbora	2012-01-01T00:00:00Z
+778	http://www.wikidata.org/entity/Q116053726	http://www.wikidata.org/entity/Q116053737	en	PPF Industrial Holding	en	Škoda	2023-01-01T00:00:00Z
+779	http://www.wikidata.org/entity/Q115974848	http://www.wikidata.org/entity/Q4072287	en	Elliniko Metro	en	Tram S.A.	2001-03-01T00:00:00Z
+780	http://www.wikidata.org/entity/Q115974848	http://www.wikidata.org/entity/Q4072287	en	Elliniko Metro	en	Tram S.A.	2001-03-01T00:00:00Z
+781	http://www.wikidata.org/entity/Q111022295	http://www.wikidata.org/entity/Q3818599	en	Vichy Catalan Corporation	en	Malavella	2016-01-01T00:00:00Z
+782	http://www.wikidata.org/entity/Q111022295	http://www.wikidata.org/entity/Q3818599	en	Vichy Catalan Corporation	en	Malavella	2016-01-01T00:00:00Z
+783	http://www.wikidata.org/entity/Q111021167	http://www.wikidata.org/entity/Q3818599	en	Vichy Catalan Corporation	en	Font d'Or	2016-01-01T00:00:00Z
+784	http://www.wikidata.org/entity/Q111021167	http://www.wikidata.org/entity/Q3818599	en	Vichy Catalan Corporation	en	Font d'Or	2016-01-01T00:00:00Z
+785	http://www.wikidata.org/entity/Q118218385	http://www.wikidata.org/entity/Q115624494	en	NAVER J.Hub		Q118218385	2021-06-30T00:00:00Z
+786	http://www.wikidata.org/entity/Q118218385	http://www.wikidata.org/entity/Q11229109	en	Line Corporation		Q118218385	2021-06-30T00:00:00Z
+787	http://www.wikidata.org/entity/Q111329363	http://www.wikidata.org/entity/Q111329379	en	Lacson Ventures SPF	en	SISAL	2017-01-01T00:00:00Z
+788	http://www.wikidata.org/entity/Q116390130	http://www.wikidata.org/entity/Q115364902	en	Strava, Inc.	en	Recover Athletics, LLC	2022-05-01T00:00:00Z
+789	http://www.wikidata.org/entity/Q116388214	http://www.wikidata.org/entity/Q115364902	en	Strava, Inc.	en	Terrascope Limited	2023-01-24T00:00:00Z
+790	http://www.wikidata.org/entity/Q116390668	http://www.wikidata.org/entity/Q115364902	en	Strava, Inc.	en	Prokit LLC	2021-01-01T00:00:00Z
+791	http://www.wikidata.org/entity/Q115108744	http://www.wikidata.org/entity/Q115109086	en	Lormont Limited	en	Arendon Development Company	2009-01-01T00:00:00Z
+792	http://www.wikidata.org/entity/Q118314236	http://www.wikidata.org/entity/Q483551	en	Walmart	en	Seiyu Holdings Co.	2021-03-01T00:00:00Z
+793	http://www.wikidata.org/entity/Q118314236	http://www.wikidata.org/entity/Q483551	en	Walmart	en	Seiyu Holdings Co.	2021-03-01T00:00:00Z
+794	http://www.wikidata.org/entity/Q118314236	http://www.wikidata.org/entity/Q118314450		Q118314450	en	Seiyu Holdings Co.	2021-03-01T00:00:00Z
+795	http://www.wikidata.org/entity/Q118314236	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Seiyu Holdings Co.	2021-03-01T00:00:00Z
+796	http://www.wikidata.org/entity/Q118314236	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Seiyu Holdings Co.	2021-03-01T00:00:00Z
+797	http://www.wikidata.org/entity/Q118314236	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Seiyu Holdings Co.	2023-05-31T00:00:00Z
+798	http://www.wikidata.org/entity/Q118314236	http://www.wikidata.org/entity/Q1570773	en	Kohlberg Kravis Roberts	en	Seiyu Holdings Co.	2023-05-31T00:00:00Z
+799	http://www.wikidata.org/entity/Q118516424	http://www.wikidata.org/entity/Q58604233	en	Privamed	en	Masarykova nemocnice Rakovník	2016-06-30T00:00:00Z
+800	http://www.wikidata.org/entity/Q118521581	http://www.wikidata.org/entity/Q97310224	en	SBI Insurance Group		Q118521581	2017-03-01T00:00:00Z
+801	http://www.wikidata.org/entity/Q118521581	http://www.wikidata.org/entity/Q97310224	en	SBI Insurance Group		Q118521581	2017-03-01T00:00:00Z
+802	http://www.wikidata.org/entity/Q118610782	http://www.wikidata.org/entity/Q118610768	en	EUROPRINT	en	EUROPRINT CZECH	2012-09-07T00:00:00Z
+803	http://www.wikidata.org/entity/Q118610806	http://www.wikidata.org/entity/Q118610828	en	LAPIDUS GRAPHICS LLC	en	PALMA LIFE	2012-10-11T00:00:00Z
+804	http://www.wikidata.org/entity/Q118610851	http://www.wikidata.org/entity/Q118610828	en	LAPIDUS GRAPHICS LLC	en	Grafian	2012-08-17T00:00:00Z
+805	http://www.wikidata.org/entity/Q118725105	http://www.wikidata.org/entity/Q118725102	en	Veroblock	en	CHFP.io	2022-12-12T00:00:00Z
+806	http://www.wikidata.org/entity/Q118876770	http://www.wikidata.org/entity/Q118876791	en	BESINIOK INVESTMENTS LIMITED	en	SSR-Simply Service Rent	2015-12-04T00:00:00Z
+807	http://www.wikidata.org/entity/Q118876770	http://www.wikidata.org/entity/Q118876799	en	AVTOTRAKTOROEXPORT	en	SSR-Simply Service Rent	2015-06-02T00:00:00Z
+808	http://www.wikidata.org/entity/Q118954863	http://www.wikidata.org/entity/Q41567534	en	PPF	en	ITIS Holding	2022-01-01T00:00:00Z
+809	http://www.wikidata.org/entity/Q118954863	http://www.wikidata.org/entity/Q41567534	en	PPF	en	ITIS Holding	2022-01-01T00:00:00Z
+810	http://www.wikidata.org/entity/Q118954863	http://www.wikidata.org/entity/Q121684080	en	ESOP ITIS Slovakia	en	ITIS Holding	2022-01-01T00:00:00Z
+811	http://www.wikidata.org/entity/Q121076325	http://www.wikidata.org/entity/Q95989661	en	Vesa Equity Investment	en	International Distributions Services	2022-12-31T00:00:00Z
+812	http://www.wikidata.org/entity/Q121204245	http://www.wikidata.org/entity/Q8073715	en	Zomato	en	Zomato Portugal	2014-02-13T00:00:00Z
+813	http://www.wikidata.org/entity/Q121298448	http://www.wikidata.org/entity/Q83867670	en	PaBa Software	en	Novus Via	2022-01-01T00:00:00Z
+814	http://www.wikidata.org/entity/Q125622304	http://www.wikidata.org/entity/Q104245554	en	EP Corporate Group	en	FoundHold EP Corporate Group	2021-01-01T00:00:00Z
+815	http://www.wikidata.org/entity/Q125622354	http://www.wikidata.org/entity/Q104245554	en	EP Corporate Group	en	EP Energy Transition	2022-01-01T00:00:00Z
+816	http://www.wikidata.org/entity/Q125622354	http://www.wikidata.org/entity/Q104245554	en	EP Corporate Group	en	EP Energy Transition	2023-01-01T00:00:00Z
+817	http://www.wikidata.org/entity/Q123482572	http://www.wikidata.org/entity/Q123482607	en	AŽU Praha Holding	en	ČKD Praha	2000-12-31T00:00:00Z
+818	http://www.wikidata.org/entity/Q123473125	http://www.wikidata.org/entity/Q123473141	en	Gonura Limited	en	Letiště Velká Dobrá	2014-01-01T00:00:00Z
+819	http://www.wikidata.org/entity/Q123473141	http://www.wikidata.org/entity/Q123473159	en	Lucky Us Corporation	en	Gonura Limited	2023-01-01T00:00:00Z
+820	http://www.wikidata.org/entity/Q123526089	http://www.wikidata.org/entity/Q25391068	en	Berestovo-Bogoduhovskiy Mining Company		Q123526089	1890-01-01T00:00:00Z
+821	http://www.wikidata.org/entity/Q124809148	http://www.wikidata.org/entity/Q124816458	en	PENCZECHREP	en	BUR Praha 1 Immobilien	2016-01-01T00:00:00Z
+822	http://www.wikidata.org/entity/Q126907965	http://www.wikidata.org/entity/Q126907990	en	BQY Czech	en	CEC Praha	2020-01-01T00:00:00Z
+823	http://www.wikidata.org/entity/Q126956561	http://www.wikidata.org/entity/Q126948365	en	O Valor do Tempo	en	Comur	2015-01-01T00:00:00Z
+824	http://www.wikidata.org/entity/Q126950040	http://www.wikidata.org/entity/Q126948365	en	O Valor do Tempo	en	Silva & Feijóo	2006-01-01T00:00:00Z
+825	http://www.wikidata.org/entity/Q111522992	http://www.wikidata.org/entity/Q14257686	en	Aciéries de Longwy	en	Société Anonyme des Produits Refractaires de Longwy	1930-01-01T00:00:00Z
+826	http://www.wikidata.org/entity/Q116894763	http://www.wikidata.org/entity/Q102263725	en	Partners BankIn	en	Partners Banka	2022-12-31T00:00:00Z
+827	http://www.wikidata.org/entity/Q116894763	http://www.wikidata.org/entity/Q102263725	en	Partners BankIn	en	Partners Banka	2022-12-31T00:00:00Z
+828	http://www.wikidata.org/entity/Q116894763	http://www.wikidata.org/entity/Q102388493	en	Brno Investment Group	en	Partners Banka	2022-12-31T00:00:00Z
+829	http://www.wikidata.org/entity/Q116894694	http://www.wikidata.org/entity/Q102388493	en	Brno Investment Group	en	Partners Holdco	2022-12-31T00:00:00Z
+830	http://www.wikidata.org/entity/Q116894763	http://www.wikidata.org/entity/Q102388391	en	Apana	en	Partners Banka	2022-12-31T00:00:00Z
+831	http://www.wikidata.org/entity/Q115626115	http://www.wikidata.org/entity/Q8194234	en	Universal Music LLC		Q115626115	2022-11-01T00:00:00Z
+832	http://www.wikidata.org/entity/Q115631082	http://www.wikidata.org/entity/Q2214105	en	SoftBank Mobile		Q115631082	2019-11-12T00:00:00Z
+833	http://www.wikidata.org/entity/Q115626115	http://www.wikidata.org/entity/Q11229109	en	Line Corporation		Q115626115	2022-11-01T00:00:00Z
+834	http://www.wikidata.org/entity/Q115626115	http://www.wikidata.org/entity/Q732503	en	Sony Music Entertainment Japan		Q115626115	2022-11-01T00:00:00Z
+835	http://www.wikidata.org/entity/Q119999724	http://www.wikidata.org/entity/Q114066246	en	Al Fardan Investments Limited	en	KHD a.s.	2019-01-01T00:00:00Z
+836	http://www.wikidata.org/entity/Q115705493	http://www.wikidata.org/entity/Q123473125	en	Letiště Velká Dobrá	en	Blue Sky Airport	2018-01-01T00:00:00Z
+837	http://www.wikidata.org/entity/Q115681758	http://www.wikidata.org/entity/Q115681659	en	CREATE SD		Q115681758	2020-02-01T00:00:00Z
+838	http://www.wikidata.org/entity/Q121748691	http://www.wikidata.org/entity/Q102388493	en	Brno Investment Group	en	Partners PenIN	2022-12-31T00:00:00Z
+839	http://www.wikidata.org/entity/Q115466913	http://www.wikidata.org/entity/Q115466863	en	Bacardi Rum Company S.A.	en	Modelo Brewery	1947-01-01T00:00:00Z
+840	http://www.wikidata.org/entity/Q115466648	http://www.wikidata.org/entity/Q115466863	en	Bacardi Rum Company S.A.	en	Santiago de Cuba Brewery	1920-01-01T00:00:00Z
+841	http://www.wikidata.org/entity/Q126000410	http://www.wikidata.org/entity/Q52672870	en	Privinvest	en	CMN Naval	1986-01-01T00:00:00Z
+842	http://www.wikidata.org/entity/Q115537095	http://www.wikidata.org/entity/Q115537099	en	ERIELL Holding Company	en	ERIELL Services	2015-01-01T00:00:00Z
+843	http://www.wikidata.org/entity/Q123581272	http://www.wikidata.org/entity/Q123581009	en	Filuta AI	en	Filuta AI CZ	2022-01-01T00:00:00Z
+844	http://www.wikidata.org/entity/Q123597745	http://www.wikidata.org/entity/Q123597759	en	Keboola Industries	en	Keboola	2019-01-01T00:00:00Z
+845	http://www.wikidata.org/entity/Q123668389	http://www.wikidata.org/entity/Q123668286	en	Privacy One	en	Surfboard Holding BV	2019-01-01T00:00:00Z
